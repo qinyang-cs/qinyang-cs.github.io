@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yang Qin (秦阳) is a Ph.D. candidate (since 2021) at the College of Computer Science, Sichuan University, advised by Prof. Dezhong Peng (彭德中). His current research interests mainly focus on multimodal learning and noisy correspondence.
+Yang Qin (秦阳) is a Ph.D. candidate (since 2021) at the College of Computer Science, Sichuan University, advised by Prof. Dezhong Peng (彭德中). His current research interests mainly focus on multimodal learning and [noisy correspondence](https://github.com/QinYang79/Noisy-Correspondence-Summary).
   
 # 🔥 News
 
