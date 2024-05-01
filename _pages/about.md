@@ -44,5 +44,5 @@ Yang Qin (秦阳) is a Ph.D. candidate (since 2021) at the College of Computer S
 - *2022.10*, PhD student Innovation Scholarship.  
 
 # 🙋 Services 
-- *Conference Reviewer*: CVPR, ACMMM, AAAI, etc.
+- *Conference Reviewer*: CVPR, ECCV, ACMMM, IJCAI, AAAI, etc.
 - *Journal Reviewer*: TVCJ, etc.
