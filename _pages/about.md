@@ -34,7 +34,9 @@ Yang Qin (秦阳) is a Ph.D. candidate (since 2021) at the College of Computer S
 - [*ACMMM'22*] **Yang Qin**, Dezhong Peng, Xi Peng, Xu Wang, Peng Hu#, [Deep Evidential Learning with Noisy Correspondence for Cross-modal Retrieval](https://drive.google.com/file/d/1YVXD2ki5txBY6khG62EHwCi6cnQVRE4I/view), Proceedings of the 30th ACM International Conference on Multimedia, 10-14 October 2022. [code](https://github.com/QinYang79/DECL)
 - For others, see [Google Scholar](https://scholar.google.com/citations?user=Ci4FBHoAAAAJ&hl=zh-CN&authuser=1).
 
-# 📖 Educations
+# 📖 Educations and Experiences
+
+- *2024.05 -  now*, the Research internship at Alibaba Cloud, Hangzhou China.
 - *2021.09 -  now*, PhD, the College of Computer Science, Sichuan University, Chengdu China.
 - *2017.09 - 2021.06*, Undergraduate,  the College of Software Engineering, Sichuan University, Chengdu China.
 
