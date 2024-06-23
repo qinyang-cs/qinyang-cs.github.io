@@ -24,7 +24,7 @@ Yang Qin (秦阳) is a Ph.D. candidate (since 2021) at the College of Computer S
 
 
 # 🔥 News
-
+- *2024.6.23*, one paper was accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE). Congrats to Yuan and coauthors! 🎉
 - *2024.4.20*, one paper was accepted by IEEE Transactions on Multimedia (TMM). Congrats to Yuan and coauthors! 🎉
 - *2024.2.27*, one paper was accepted by IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2024). Thanks to all coauthors! 🎉
 - *2024.1.24*, one paper was accepted by Computers in Biology and Medicine. Congrats to Yinyu and coauthors! 🎉
