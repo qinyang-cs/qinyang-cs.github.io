@@ -27,12 +27,12 @@ Yang Qin (秦阳) is a Ph.D. candidate (since 2021) at the College of Computer S
 
 - *2024.7.16*, one paper was accepted by ACM Multimedia 2024 (ACMMM 2024). Congrats to Longan (Undergrad) and coauthors! 🎉
 - *2024.6.26*, one paper was accepted by IEEE Transactions on Image Processing (TIP). Congrats to Yongxiang and coauthors! 🎉
-- *2024.6.23*, one paper was accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE). Congrats to Yuan and coauthors! 🎉
-- *2024.4.20*, one paper was accepted by IEEE Transactions on Multimedia (TMM). Congrats to Yuan and coauthors! 🎉
-- *2024.2.27*, one paper was accepted by IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2024). Thanks to all coauthors! 🎉
+- *2024.6.23*, one paper was accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE). Congrats to Yuan and the coauthors! 🎉
+- *2024.4.20*, one paper was accepted by IEEE Transactions on Multimedia (TMM). Congrats to Yuan and the coauthors! 🎉
+- *2024.2.27*, one paper was accepted by IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2024). Thanks to all coauthors! 🎉
 - *2024.1.24*, one paper was accepted by Computers in Biology and Medicine. Congrats to Yinyu and coauthors! 🎉
-- *2023.9.22*, one paper was accepted by the Thirty-Seventh Annual Conference on Neural Information Processing Systems (NeurIPS 2023) held at the New Orleans, Dec. 10-16, 2023. Thanks to all coauthors! 🎉
-- *2023.4.28*, one paper was accepted by the IEEE 20th International Symposium on Biomedical Imaging (ISBI 2023). Congrats to Yinyu and coauthors! 🎉
+- *2023.9.22*, one paper was accepted by the Thirty-Seventh Annual Conference on Neural Information Processing Systems (NeurIPS 2023). Thanks to all coauthors! 🎉
+- *2023.4.28*, one paper was accepted by ISBI 2023. Congrats to Yinyu and coauthors! 🎉
 - *2023.1.25*, one paper was accepted by Knowledge-Based Systems (KBS). Congrats to Jiyao and coauthors! 🎉
 - *2022.6.30*, one paper was accepted by ACM Multimedia 2022 (ACMMM 2022). Thanks to all coauthors! 🎉
 
