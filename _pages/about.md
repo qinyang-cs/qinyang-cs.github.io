@@ -33,7 +33,7 @@ Yang Qin (秦阳) is a Ph.D. candidate (since 2021) at the College of Computer S
 - *2024.1.24*, one paper was accepted by Computers in Biology and Medicine. Congrats to Yinyu and coauthors! 🎉
 - *2023.9.22*, one paper was accepted by the Thirty-Seventh Annual Conference on Neural Information Processing Systems (NeurIPS 2023). Thanks to all coauthors! 🎉
 - *2023.4.28*, one paper was accepted by ISBI 2023. Congrats to Yinyu and coauthors! 🎉
-- *2023.1.25*, one paper was accepted by Knowledge-Based Systems (KBS). Congrats to Jiyao and coauthors! 🎉
+- *2023.1.25*, one paper was accepted by KBS. Congrats to Jiyao and coauthors! 🎉
 - *2022.6.30*, one paper was accepted by ACM Multimedia 2022 (ACMMM 2022). Thanks to all coauthors! 🎉
 
 # 📝 Publications
