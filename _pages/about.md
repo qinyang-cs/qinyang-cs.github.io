@@ -20,8 +20,7 @@ Yang Qin (秦阳) is a Ph.D. candidate (since 2021) at the College of Computer S
 
 - Multimodal Learning: Multimodal Fusion & Cross-modal Learning
 - Noisy Correspondence: NCs in Image-Text Matching and Text-based ReID
-- LLMs: Currently being  explored $\cdots$
-
+- LLMs/MLLMs: Code LLMs & Application of MLLMs/LLMs 
 
 # 🔥 News
 
