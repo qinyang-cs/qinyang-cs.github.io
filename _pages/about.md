@@ -50,9 +50,10 @@ Yang Qin (秦阳) is a Ph.D. candidate (since 2021) at the College of Computer S
 - *2017.09 - 2021.06*, Undergraduate,  the College of Software Engineering, Sichuan University, Chengdu China.
 
 # 🎖 Honors and Awards
+- *2024.11*, PhD student National Scholarship.
 - *2023.10*, Tencent Scholarship.
-- *2023.10*, Outstanding Graduate Student of Sichuan University
-- *2022.10*, PhD student Innovation Scholarship.  
+- *2023.10*, Outstanding Graduate Student of Sichuan University.
+- *2022.10*, PhD student Innovation Scholarship.
 
 # 🙋 Services 
 - *Conference Reviewer*: NeurIPS, ICLR, CVPR, ECCV, ACMMM, IJCAI, AAAI, AISTATS, etc.
