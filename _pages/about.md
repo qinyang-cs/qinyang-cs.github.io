@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a Ph.D. candidate (since 2021) at the College of Computer Science, Sichuan University, fortunately advised by Prof. [Dezhong Peng](https://cs.scu.edu.cn/info/1182/7307.htm) and Prof. [Peng Hu](https://penghu-cs.github.io/). 
+My name is Yang Qin (秦阳). I'm a Ph.D. candidate (since 2021) at the College of Computer Science, Sichuan University, fortunately advised by Prof. [Dezhong Peng](https://cs.scu.edu.cn/info/1182/7307.htm) and Prof. [Peng Hu](https://penghu-cs.github.io/). 
 
 My research interests mainly focus on multimodal learning and [noisy correspondence](https://github.com/QinYang79/Noisy-Correspondence-Summary) (NC). Recently, I've been conducting research related to ***LLMs***.
 
