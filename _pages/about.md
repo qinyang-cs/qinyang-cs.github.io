@@ -16,7 +16,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yang Qin (秦阳) is a Ph.D. candidate (since 2021) at the College of Computer Science, Sichuan University, advised by Prof. [Dezhong Peng](https://cs.scu.edu.cn/info/1182/7307.htm) and Prof. [Peng Hu](https://penghu-cs.github.io/). His current research interests mainly focus on multimodal learning and [noisy correspondence](https://github.com/QinYang79/Noisy-Correspondence-Summary) (NC). Recently, I am conducting research related to ***LLMs***.
+I'm a Ph.D. candidate (since 2021) at the College of Computer Science, Sichuan University, fortunately advised by Prof. [Dezhong Peng](https://cs.scu.edu.cn/info/1182/7307.htm) and Prof. [Peng Hu](https://penghu-cs.github.io/). 
+
+My research interests mainly focus on multimodal learning and [noisy correspondence](https://github.com/QinYang79/Noisy-Correspondence-Summary) (NC). Recently, I've been conducting research related to ***LLMs***.
 
 - Multimodal Learning: Multimodal Fusion & Cross-modal Learning
 - Noisy Correspondence: NCs in Image-Text Matching and Text-based ReID
