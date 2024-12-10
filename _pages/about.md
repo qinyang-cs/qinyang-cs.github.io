@@ -46,8 +46,8 @@ Yang Qin (秦阳) is a Ph.D. candidate (since 2021) at the College of Computer S
 
 # 📖 Educations and Experiences
 
-- *2024.05 -  now*, the Research internship at Alibaba Cloud (Apsara Lab led by [Jieping Ye](https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=T9AzhwcAAAAJ)), Hangzhou China.
 - *2021.09 -  now*, PhD, the College of Computer Science, Sichuan University, Chengdu China.
+- *2024.05 -  2024.12*, the Research Internship at Alibaba Cloud (Apsara Lab led by [Jieping Ye](https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=T9AzhwcAAAAJ)), Hangzhou China.
 - *2017.09 - 2021.06*, Undergraduate,  the College of Software Engineering, Sichuan University, Chengdu China.
 
 # 🎖 Honors and Awards
