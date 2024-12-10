@@ -26,7 +26,7 @@ My research interests mainly focus on multimodal learning and [noisy corresponde
 
 # 🔥 News
 
-- *2024.12.10*, one paper was accepted by AAAI 2024. Congrats to Ruitao and coauthors! 🎉
+- *2024.12.10*, one paper was accepted by AAAI 2025. Congrats to Ruitao and coauthors! 🎉
 - *2024.10.28*, one paper was accepted by IEEE Transactions on Multimedia (TMM). Thanks to all coauthors! 🎉
 - *2024.7.16*, one paper was accepted by ACMMM 2024. Congrats to Longan (Undergrad) and coauthors! 🎉
 - *2024.6.26*, one paper was accepted by IEEE Transactions on Image Processing (TIP). Congrats to Yongxiang and coauthors! 🎉
