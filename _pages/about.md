@@ -59,5 +59,5 @@ My research interests mainly focus on multimodal learning and [noisy corresponde
 - *2022.10*, PhD student Innovation Scholarship.
 
 # 🙋 Services 
-- *Conference Reviewer*: NeurIPS, ICLR, CVPR, ECCV, ACMMM, IJCAI, AAAI, AISTATS, etc.
+- *Conference Reviewer*: NeurIPS, ICLR, ICML, CVPR, ECCV, ACMMM, IJCAI, AAAI, AISTATS, etc.
 - *Journal Reviewer*: TIP, TNNLS, TVCJ, etc.
