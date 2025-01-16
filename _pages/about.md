@@ -26,6 +26,7 @@ My research interests mainly focus on multimodal learning and [noisy corresponde
 
 # 🔥 News
 
+- *2025.1.16*, one paper was accepted by IEEE Transactions on Information Forensics and Security (TIFS). Congrats to Yongxiang and coauthors! 🎉
 - *2024.12.10*, one paper was accepted by AAAI 2025. Congrats to Ruitao and coauthors! 🎉
 - *2024.10.28*, one paper was accepted by IEEE Transactions on Multimedia (TMM). Thanks to all coauthors! 🎉
 - *2024.7.16*, one paper was accepted by ACMMM 2024. Congrats to Longan (Undergrad) and coauthors! 🎉
@@ -40,7 +41,7 @@ My research interests mainly focus on multimodal learning and [noisy corresponde
 - *2022.6.30*, one paper was accepted by ACMMM 2022. Thanks to all coauthors! 🎉
 
 # 📝 Publications
-- [*TMM'24*] Ruitao Pu*, **Yang Qin\***, Dezhong Peng#, Xiaoming Song, Huiming Zheng, [Deep Reversible Consistency Learning for Cross-modal Retrieval](), IEEE Transactions on Multimedia (TMM), 2024. [code](https://github.com/perquisite/DRCL)
+- [*TMM'24*] Ruitao Pu*, **Yang Qin\***, Dezhong Peng#, Xiaoming Song, Huiming Zheng, [Deep Reversible Consistency Learning for Cross-modal Retrieval](https://arxiv.org/pdf/2501.05686), IEEE Transactions on Multimedia (TMM), 2024. [code](https://github.com/perquisite/DRCL)
 - [*CVPR'24*] **Yang Qin**, Yingke Chen, Dezhong Peng, Xi Peng, Joey Tianyi Zhou, Peng Hu#, [Noisy-Correspondence Learning for Text-to-Image Person Re-identification](https://arxiv.org/pdf/2308.09911.pdf), IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.  [code](https://github.com/QinYang79/RDE)
 - [*NeurIPS'23*] **Yang Qin**, Yuan Sun, Dezhong Peng, Joey Tianyi Zhou, Xi Peng, Peng Hu#, [Cross-modal Active Complementary Learning with Self-refining Correspondence](https://openreview.net/pdf?id=UBBeUjTja8), Neural Information Processing Systems (NeurIPS), 2023.  [code](https://github.com/QinYang79/CRCL)
 - [*ACMMM'22*] **Yang Qin**, Dezhong Peng, Xi Peng, Xu Wang, Peng Hu#, [Deep Evidential Learning with Noisy Correspondence for Cross-modal Retrieval](https://drive.google.com/file/d/1YVXD2ki5txBY6khG62EHwCi6cnQVRE4I/view), Proceedings of the 30th ACM International Conference on Multimedia, 10-14 October 2022. [code](https://github.com/QinYang79/DECL)
