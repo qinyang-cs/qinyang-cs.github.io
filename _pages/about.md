@@ -29,7 +29,7 @@ My research interests mainly focus on multimodal learning and [noisy corresponde
 
 - *2025.1.23*, one paper was accepted by ICLR 2025. Thanks to all coauthors! 🎉 
 - *2025.1.19*, one paper was accepted by IEEE Transactions on Multimedia (TMM) (中科院1区). Congrats to Yanglin and coauthors! 🎉
-- *2025.1.16*, one paper was accepted by IEEE Transactions on Information Forensics & Security (TIFS) (中科院1区, CCF-A). Congrats to Yongxiang and coauthors! 🎉
+- *2025.1.16*, one paper was accepted by IEEE Transactions on Information Forensics and Security (TIFS) (中科院1区, CCF-A). Congrats to Yongxiang and coauthors! 🎉
 - *2024.12.10*, one paper was accepted by AAAI 2025 (CCF-A). Congrats to Ruitao and coauthors! 🎉
 - *2024.10.28*, one paper was accepted by IEEE Transactions on Multimedia (TMM) (中科院1区). Thanks to all coauthors! 🎉
 - *2024.7.16*, one paper was accepted by ACMMM 2024 (CCF-A). Congrats to Longan (Undergrad) and coauthors! 🎉
