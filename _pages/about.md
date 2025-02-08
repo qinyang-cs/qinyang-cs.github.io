@@ -22,7 +22,7 @@ My research interests mainly focus on multimodal learning and [noisy corresponde
 
 - Multimodal Learning: Multimodal Fusion & Cross-modal Learning
 - Noisy Correspondence: NCs in Image-Text Matching and Text-based ReID
-- LLMs/MLLMs: [Code LLMs](https://arxiv.org/pdf/2412.10138?) & Application of MLLMs/LLMs 
+- LLMs/MLLMs: [Code LLMs  & Application of MLLMs/LLMs](https://arxiv.org/pdf/2412.10138?)
 
 # 🔥 News
 
