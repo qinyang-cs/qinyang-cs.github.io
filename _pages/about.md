@@ -22,7 +22,7 @@ My research interests mainly focus on multimodal learning and [noisy corresponde
 
 - Multimodal Learning: Multimodal Fusion & Cross-modal Learning
 - Noisy Correspondence: NCs in Image-Text Matching and Text-based ReID
-- LLMs/MLLMs: [Code LLMs  & Application of MLLMs/LLMs](https://openreview.net/pdf?id=BAglD6NGy0)
+- LLMs/MLLMs: [Code LLMs  & Application of MLLMs/LLMs](https://qinyang-cs.github.io/projects/LLMs)
 
 # 🔥 News
 
