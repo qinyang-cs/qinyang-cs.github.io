@@ -54,7 +54,7 @@
               <a href="https://qinyang-cs.github.io/">Yang Qin</a>,
             </span>
             <span class="author-block">
-              <a href="https://chaochen.cc/"></a>Chao Chen</a>,
+              <a href="https://chaochen.cc/">Chao Chen</a>,
             </span>
             <span class="author-block">
               <a href="https://zhihangfu.top/">Zhihang Fu</a>,
@@ -68,20 +68,12 @@
             </span>
             <span class="author-block"> Jieping Ye</span>
           </div>
-
-      
-          <!-- <div class="is-size-5 publication-authors">
-            <span class="author-block"><sup>1</sup>Sichuan University</span>
-            <br>
-            <span class="author-block"><sup>2</sup>Ant Group</span>
-          </div> -->
-
+ 
           <div class="is-size-5 publication-authors">
             <span class="author-block" style="color:red"><b>ICLR 2025</b></span>
             <br>
           </div>
-          <!-- [ICLR’25] Yang Qin, Chao Chen, Zhihang Fu, Ze Chen, Dezhong Peng#, Peng Hu#, Jieping Ye, ROUTE: Robust Multitask Tuning and Collaboration for Text-to-SQL, International Conference on Learning Representations (ICLR), 2025. code -->
-          
+       
           <div class="publication-links">
             <!-- PDF Link. -->
             <span class="link-block">
@@ -117,7 +109,7 @@
             </span>
              <!-- Slides Link. -->
              <!-- <span class="link-block">
-              <a href="https://iclr.cc/media/iclr-2024/Slides/19303.pdf"
+              <a href="https://iclr.cc/media/iclr-2024/Slides/xxx.pdf"
                  class="external-link button is-normal is-rounded is-dark">
                 <span class="icon">
                     <i class="far fa-images"></i>
@@ -128,7 +120,7 @@
 
           </div>  
         </div>
-      </div>
+      </div> 
     </div>
   </div>
 </section>
@@ -136,7 +128,7 @@
 <section class="hero teaser">
   <div class="container is-max-desktop">
     <div class="hero-body">
-      <img src="./static/images/route.jpg">
+      <img src="./static/images/route.png">
       <!-- <h2 class="subtitle has-text-centered">
         <span class="dnerf"></span> Our observation of noisy correspondence in long-term video learning.
       </h2> -->
@@ -144,189 +136,153 @@
   </div>
 </section>
 
-
-<div class="my-hr">
-  <hr>
-</div>
-
-
-
-
-<section class="section">
-  <div class="container is-max-desktop">
-    <!-- Abstract. -->
-    <div class="columns is-centered has-text-centered">
-      <div class="column is-four-fifths">
-        <h2 class="title is-3">Abstract</h2>
-
-        <div class="content has-text-justified">
-          <p>
-            Existing video-language studies mainly focus on learning short video clips, leaving long-term temporal dependencies rarely explored due to over-high computational cost of modeling long videos. To address this issue, one feasible solution is learning the correspondence between video clips and captions, which however inevitably encounters the multi-granularity noisy correspondence (MNC) problem. To be specific, MNC refers to the clip-caption misalignment (coarse-grained) and frame-word misalignment (fine-grained), hindering temporal learning and video understanding. In this paper, we propose NOise Robust Temporal Optimal traNsport (Norton) that addresses MNC in a unified optimal transport (OT) framework. In brief, Norton employs video-paragraph and clip-caption contrastive losses to capture long-term dependencies based on OT. To address coarse-grained misalignment in video-paragraph contrast, Norton filters out the irrelevant clips and captions through an alignable prompt bucket and realigns asynchronous clip-caption pairs based on transport distance. To address the fine-grained misalignment, Norton incorporates a soft-maximum operator to identify crucial words and key frames. Additionally, Norton exploits the potential faulty negative samples in clip-caption contrast by rectifying the alignment target with OT assignment to ensure precise temporal modeling. Extensive experiments on video retrieval, videoQA, and action segmentation verify the effectiveness of our method. 
-            <!-- Recent text-to-3D generation methods achieve impressive 3D content creation capacity thanks to the advances in image diffusion models and optimizing strategies.
-            However, current methods struggle to generate correct 3D content for a complex prompt in semantics, <i>i.e.</i>, a prompt describing multiple interacted objects binding with different attributes.
-            In this work, we propose a general framework named <b>Progressive3D</b>, which decomposes the entire generation into a series of locally progressive editing steps to create precise 3D content for complex prompts, and we constrain the content change to only occur in regions determined by user-defined region prompts in each editing step.
-            Furthermore, we propose an overlapped semantic component suppression technique to encourage the optimization process to focus more on the semantic differences between prompts.
-            Extensive experiments demonstrate that the proposed Progressive3D framework generates precise 3D content for prompts with complex semantics and is general for various text-to-3D methods driven by different 3D representations. -->
-          </p>
-        </div>
-      </div>
-    </div>
-    <!--/ Abstract. -->
-    <hr>
-
-    <div class="columns is-centered has-text-centered">
-        <div class="column is-full-width">
-          <h2 class="title is-3">Method</h2>
-          <img src="./static/images/framework.jpg">
-          <br>
-          <br>
-          <div class="content has-text-justified">
-            <p>
-              <b>Overview of our multi-granularity correspondence learning. </b>
-              We perform video-paragraph contrastive learning to capture long-term temporal correlations from a fine-to-coarse perspective. Specifically, we first utilize the log-sum-exp operator on the frame-word similarity matrix to obtain fine-grained similarity between clip and caption. Additionally, we append an alignable prompt bucket on the clip-caption similarity matrix to filter out the irrelevant clips or captions. By applying Sinkhorn iterations on the clip-caption similarity matrix, we effectively tackle the asynchronous problem and obtain the optimal transport distance as the video-paragraph similarity. 
-            </p>
-          </div> 
-
-        </div>
-    </div>
-    
-    <hr>
-
-      
-    <div class="columns is-centered has-text-centered">
-      <div class="column is-full-width">
-        <h2 class="title is-3">Dataset</h2>
-        <div class="content has-text-justified">
-            <ul>
-              <li><b>Training Dataset <a href="https://www.di.ens.fr/willow/research/howto100m/"><b>HowTo100M</b></a></b>
-              </li>
-              <ul>
-                <p style="color: red;">
-                Download our prepared data feature from <a href="https://pan.baidu.com/s/1b8nTw7-IzbDlJlakbVhwNA?pwd=nk6e">Baidu Cloud Disk</a> (password: nk6e). Follow the <a href="https://github.com/XLearning-SCU/2024-ICLR-Norton/blob/main/DATASET.md">instructions</a> to process the data.
-                  </p>
-
-              <li style="margin-top:10px;">
-                <b>Video titles</b> (77MB json, for reference only) 
-                <br>
-                <a href="http://www.robots.ox.ac.uk/~htd/tan/howto100m_vid_to_title.json">Download</a>
-              </li>
-              <li>
-                <b>Video subtitles (Sentencified HTM)</b> 
-                <p>
-                  Sentencified HTM converts the original YouTube ASR (Automatic Speech Recognition) texts  to <b>full sentences</b>
-                using the method <a href="https://github.com/TengdaHan/TemporalAlignNet/tree/main/sentencify_text">here</a>.
-                  <br>
-                  <a href="http://www.robots.ox.ac.uk/~htd/tan/sentencified_htm_1200k.json">Download HTM-1.2M (9.9GB json) </a>
-                | <a href="https://www.robots.ox.ac.uk/~vgg/research/tan/htm_sentencify_stats.html">Statistics </a>
-                </p>
-              </li>
-            
-              <li style="margin-top:10px;">
-                <b>Video feature </b>
-                <p> We use HowTo100M pre-trained S3D (<a href = "https://github.com/antoine77340/S3D_HowTo100M">MIL-NCE</a>)
-                     to extract one video token per second at 30 fps following VideoCLIP, 
-                  obtaining around 465 GB npy files.  
-                </p>
-                <!-- <a href="http://www.robots.ox.ac.uk/~htd/tan/howto100m_vid_to_title.json"><b>[Download]</b></a> -->
-              </li>
-            </ul>
-            </li>
-            
-            <li><b>Evaluation Dataset</b>
-              <p>The downstream datasets and annotation files (e.g., `msrvtt/MSRVTT_JSFUSION_test.csv`) are now available for download on Baidu Cloud Disk. Access them via this link:
-              <a href="https://pan.baidu.com/s/1KM60oabsr8TflzsRLwy7xQ?pwd=6akb">https://pan.baidu.com/s/1KM60oabsr8TflzsRLwy7xQ?pwd=6akb</a>.
-              </p>
-              <ul><li><a href="https://www.robots.ox.ac.uk/~vgg/research/tan/#htm-align"><b>HTM-Align</b></a></li></ul>
-              <ul><li><b>YouCookII</b></li></ul>
-              <ul><li><b>MSRVTT</b></li></ul>
-              <ul><li><a href="https://coin-dataset.github.io"><b>COIN</b></a></li></ul>
-
-            </li>
-          </ul>
-      <br>
-       
-            
-        </div>
-
-        <!-- <video id="replay-video" autoplay loop muted width="100%">
-          <source src="./static/videos/conception.mp4"
-                  type="video/mp4">
-        </video> -->
-      </div>
-    </div>
-
-    <hr>
- 
-    <div class="columns is-centered has-text-centered">
-      <div class="column is-full-width">
-        <h2 class="title is-3">Comparison</h2>
-    
-        <div class="content has-text-justified">
-          <p>
-            The result of long video retrieval to demonstrate the effectiveness of temporal learning. 
-            We compared our proposed Norton with three standard strategies, namely,  Cap. Avg. (Caption Average), DTW (Dynamic Time Warping), and OTAM (Ordered Temporal Alignment Module).  
-          </p>
-        </div>
-        <img src="./static/images/retrieval.png">
-        <br>
-        <br>    
-
-        <div class="content has-text-justified">
-          <p>
-            The visualization of re-alignment to demonstrate the robustness. 
-            We compared our method with the DTW and vanilla optimal transport. 
-          </p>
-        </div>
-        <img src="./static/images/visual.jpg">
-        <br>
-        <br>  
-        
-      
-          
-      </div>
-    </div>
-
-    <hr> 
-  <div class="container is-max-desktop">
-    <!-- Abstract. -->
-    <div class="columns is-centered has-text-centered">
-      <div class="column is-full-width">
-        <h2 class="title is-3">Background of Noisy Correspondence</h2>
-        <div class="content has-text-justified">
-          <p>
-            Noisy correspondence problem, <i>i.e., mismatched data pairs</i>, has garnered attention in diverse multi-modal applications, extending <b>beyond video-text domains</b> 
-            to encompass challenges in image-text retrieval 
-            (<a href="https://proceedings.neurips.cc/paper/2021/file/f5e62af885293cf4d511ceef31e61c80-Paper.pdf">Huang et al., 2021; </a>
-            <a href="http://pengxi.me/wp-content/uploads/2022/09/Deep-Evidential-Learning-with-Noisy-Correspondence-for-Cross-modal-Retrieval.pdf">Qin et al., 2022; </a>
-            <a href="https://arxiv.org/pdf/2310.17468.pdf">2023; </a>
-            <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Han_Noisy_Correspondence_Learning_With_Meta_Similarity_Correction_CVPR_2023_paper.pdf">Han et al., 2023; </a>
-            <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_BiCro_Noisy_Correspondence_Rectification_for_Multi-Modality_Data_via_Bi-Directional_Cross-Modal_CVPR_2023_paper.pdf">Yang et al., 2023</a>), 
-            cross-modal generation (<a href="https://proceedings.mlr.press/v162/li22n/li22n.pdf">Li et al., 2022</a>), 
-            person re-identification (<a href="https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Learning_With_Twin_Noisy_Labels_for_Visible-Infrared_Person_Re-Identification_CVPR_2022_paper.pdf">Yang et al., 2022</a>), 
-            and graph matching (<a href="https://arxiv.org/pdf/2212.04085.pdf">Lin et al., 2023</a>).       
-            <!-- Our work has the potential to attract increased attention to the broader spectrum of noisy correspondence challenges across various domains. -->
-          </p>
-        </div>
-      </div>
-    </div>
-    <!--/ Abstract. -->
-    <hr>
-
-
-</section>  
-
 <section class="section" id="BibTeX">
   <div class="container is-max-desktop content">
     <h2 class="title">BibTeX</h2>
     <pre><code>
-      @inproceedings{lin2024norton,
-        title={Multi-granularity Correspondence Learning from Long-term Noisy Videos},
-        author={Lin, Yijie and Zhang, Jie and Huang, Zhenyu and Liu, Jia and Wen, Zujie and Peng, Xi},
-        booktitle={Proceedings of the International Conference on Learning Representations},
-        month={May},
-        year={2024}
-     }
+     @inproceedings{qin2025route,
+      title={ROUTE: Robust Multitask Tuning and Collaboration for Text-to-SQL},
+      author={Yang Qin and Chao Chen and Zhihang Fu and Ze Chen and Dezhong Peng and Peng Hu and Jieping Ye},
+      booktitle={The Thirteenth International Conference on Learning Representations},
+      year={2025},
+      url={https://openreview.net/forum?id=BAglD6NGy0}
+      } 
     </code></pre>
+  </div>
+</section>
+
+<div class="my-hr">
+  <hr>
+</div> 
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title"> ROUTE: Robust Multitask Tuning and Collaboration for Text-to-SQL</h1>
+          
+          <div class="is-size-5 publication-authors"> 
+            <span class="author-block"> Shuai Lyu, </span>
+            <span class="author-block"> Haoran Luo, </span>
+            <span class="author-block"> Zhonghong Ou, </span>
+            <span class="author-block"> Yifan Zhu, </span>
+            <span class="author-block"> Xiaoran Shang, </span>
+            <span class="author-block">
+              <a href="https://qinyang-cs.github.io/">Yang Qin</a>,
+            </span>
+            <span class="author-block">  Meina Song </span> 
+          </div>
+ 
+      
+          <div class="is-size-5 publication-authors">
+            <b>Submit to ACL 2025</b>
+            <br>
+          </div>
+       
+          <div class="publication-links">
+            <!-- PDF Link. -->
+            <span class="link-block">
+              <!-- <a href="https://arxiv.org/pdf/2401.16702.pdf" -->
+              <a href="https://arxiv.org/abs/2502.11741"
+                 class="external-link button is-normal is-rounded is-dark">
+                <span class="icon">
+                    <i class="fas fa-file-pdf"></i>
+                </span>
+                <span>Paper</span>
+              </a>
+            </span>
+            
+            <!-- Video Link. -->
+            <!-- <span class="link-block">
+              <a href="https://www.youtube.com/watch?v=MrKrnHhk8IA"
+                 class="external-link button is-normal is-rounded is-dark">
+                <span class="icon">
+                    <i class="fab fa-youtube"></i>
+                </span>
+                <span>Video</span>
+              </a>
+            </span> -->
+
+            <!-- Code Link. -->
+            <span class="link-block">
+              <a href="https://github.com/ShuaiLyu0110/SQL-o1" class="external-link button is-normal is-rounded is-dark">
+                <span class="icon">
+                    <svg class="svg-inline--fa fa-github fa-w-16" aria-hidden="true" focusable="false" data-prefix="fab" data-icon="github" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512" data-fa-i2svg=""><path fill="currentColor" d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"></path></svg><!-- <i class="fab fa-github"></i> Font Awesome fontawesome.com -->
+                </span>
+                <span>Code</span>
+                </a>
+            </span>
+             <!-- Slides Link. -->
+             <!-- <span class="link-block">
+              <a href="https://iclr.cc/media/iclr-2024/Slides/xxx.pdf"
+                 class="external-link button is-normal is-rounded is-dark">
+                <span class="icon">
+                    <i class="far fa-images"></i>
+                </span>
+                <span>Slides</span>
+                </a>
+             </span> -->
+
+          </div>  
+        </div>
+      </div> 
+    </div>
+  </div>
+</section>
+
+<section class="hero teaser">
+  <div class="container is-max-desktop">
+    <div class="hero-body">
+      <img src="./static/images/SQL-o1.png">
+      <!-- <h2 class="subtitle has-text-centered">
+        <span class="dnerf"></span> Our observation of noisy correspondence in long-term video learning.
+      </h2> -->
+    </div>
+  </div>
+</section>
+<section class="section" id="BibTeX">
+  <div class="container is-max-desktop content">
+    <h2 class="title">BibTeX</h2>
+    <pre><code>
+      @misc{lyu2025sqlo1selfrewardheuristicdynamic,
+        title={SQL-o1: A Self-Reward Heuristic Dynamic Search Method for Text-to-SQL}, 
+        author={Shuai Lyu and Haoran Luo and Zhonghong Ou and Yifan Zhu and Xiaoran Shang and Yang Qin and Meina Song},
+        year={2025},
+        eprint={2502.11741},
+        archivePrefix={arXiv},
+        primaryClass={cs.DB},
+        url={https://arxiv.org/abs/2502.11741}, 
+      }
+    </code></pre>
+  </div>
+</section>
+
+
+
+<div class="my-hr">
+  <hr>
+</div> 
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title"> Human-centered Interactive Learning via MLLMs for Text-to-Image Person Re-identification</h1>
+          <div class="is-size-5 publication-authors"> 
+            <span class="author-block">
+              <a href="https://qinyang-cs.github.io/">Yang Qin</a> et al.
+            </span>
+            <span class="author-block">  Meina Song </span> 
+          </div>
+
+          <div class="is-size-5 publication-authors">
+            <b>Submit to CVPR 2025</b>
+            <br>
+          </div>
+          </div>  
+        </div>
+      </div> 
+    </div>
   </div>
 </section>
 
