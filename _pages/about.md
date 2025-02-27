@@ -26,7 +26,7 @@ My research interests mainly focus on multimodal learning and [noisy corresponde
 
 # 🔥 News
 
-
+- *2025.1.27*, one paper about LLM was accepted by CVPR 2025. Thanks to all coauthors! 🎉 
 - *2025.1.23*, one paper about LLM was accepted by ICLR 2025. Thanks to all coauthors! 🎉 
 - *2025.1.19*, one paper was accepted by TMM (中科院1区). Congrats to Yanglin and coauthors! 🎉
 - *2025.1.16*, one paper was accepted by TIFS (中科院1区, CCF-A). Congrats to Yongxiang and coauthors! 🎉
@@ -40,7 +40,9 @@ My research interests mainly focus on multimodal learning and [noisy corresponde
 - *2023.9.22*, one paper was accepted by NeurIPS 2023 (CCF-A). Thanks to all coauthors! 🎉 
 - *2022.6.30*, one paper was accepted by ACM MM 2022 (CCF-A). Thanks to all coauthors! 🎉
 
+
 # 📝 Publications
+- [*CVPR'25*] **Yang Qin**, Chao Chen, Zhihang Fu, Dezhong Peng, Xi Peng, Peng Hu, [Human-centered Interactive Learning via MLLMs for Text-to-Image Person Re-identification](), IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025.
 - [*ICLR'25*] **Yang Qin**, Chao Chen, Zhihang Fu, Ze Chen, Dezhong Peng#, Peng Hu#, Jieping Ye, [ROUTE: Robust Multitask Tuning and Collaboration for Text-to-SQL](https://openreview.net/pdf?id=BAglD6NGy0), International Conference on Learning Representations (ICLR), 2025. [code](https://github.com/alibaba/Route)
 - [*TMM'24*] Ruitao Pu*, **Yang Qin\***, Dezhong Peng#, Xiaoming Song, Huiming Zheng, [Deep Reversible Consistency Learning for Cross-modal Retrieval](https://arxiv.org/pdf/2501.05686), IEEE Transactions on Multimedia (TMM), 2024. [code](https://github.com/perquisite/DRCL)
 - [*CVPR'24*] **Yang Qin**, Yingke Chen, Dezhong Peng, Xi Peng, Joey Tianyi Zhou, Peng Hu#, [Noisy-Correspondence Learning for Text-to-Image Person Re-identification](https://arxiv.org/pdf/2308.09911.pdf), IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.  [code](https://github.com/QinYang79/RDE)
