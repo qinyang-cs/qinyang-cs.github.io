@@ -26,7 +26,7 @@ My research interests mainly focus on multimodal learning and [noisy corresponde
 
 # 🔥 News
 
-- *2025.1.27*, one paper about LLM was accepted by CVPR 2025 (CCF-A). Thanks to all coauthors! 🎉 
+- *2025.2.27*, one paper about LLM was accepted by CVPR 2025 (CCF-A). Thanks to all coauthors! 🎉 
 - *2025.1.23*, one paper about LLM was accepted by ICLR 2025. Thanks to all coauthors! 🎉 
 - *2025.1.19*, one paper was accepted by TMM (中科院1区). Congrats to Yanglin and coauthors! 🎉
 - *2025.1.16*, one paper was accepted by TIFS (中科院1区, CCF-A). Congrats to Yongxiang and coauthors! 🎉
