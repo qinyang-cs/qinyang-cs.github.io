@@ -21,8 +21,8 @@ My name is Yang Qin (秦阳). I'm a Ph.D. candidate (since 2021) at the College 
 My research interests mainly focus on multimodal learning and [noisy correspondence](https://github.com/QinYang79/Noisy-Correspondence-Summary) (NC). Recently, I've been conducting research related to ***LLMs***.
 
 - Multimodal Learning: Multimodal Fusion & Cross-modal Learning
-- Noisy Correspondence: NCs in Image-Text Matching and Text-based ReID
-- LLMs/MLLMs: [Code LLMs  & Application of MLLMs/LLMs](https://qinyang-cs.github.io/projects/LLMs).
+- Robust Machine Learning: Noisy Correspondence & Label in Multimodal Learning
+- Large Language Models: [Code LLMs  & Application of MLLMs/LLMs](https://qinyang-cs.github.io/projects/LLMs).
 - [**This**](https://docs.google.com/document/d/16XxH3dl3Oq7t8mDBrEaAHKykmLstVLi-MbfouroMYvY/edit?usp=sharing) is a Chinese brief to help MT recruit Research Interns (RI) about LLMs. If you are interested, please get in touch with me.
 
 # 🔥 News
