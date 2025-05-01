@@ -51,8 +51,8 @@ If you are interested in collaborating with me or want to have a chat, please fe
 - [*NeurIPS'23*] **Yang Qin**, Yuan Sun, Dezhong Peng, Joey Tianyi Zhou, Xi Peng, Peng Hu#, [Cross-modal Active Complementary Learning with Self-refining Correspondence](https://openreview.net/pdf?id=UBBeUjTja8), Neural Information Processing Systems (NeurIPS), 2023.  [code](https://github.com/QinYang79/CRCL)
 - [*ACM MM'22*] **Yang Qin**, Dezhong Peng, Xi Peng, Xu Wang, Peng Hu#, [Deep Evidential Learning with Noisy Correspondence for Cross-modal Retrieval](https://drive.google.com/file/d/1YVXD2ki5txBY6khG62EHwCi6cnQVRE4I/view), Proceedings of the 30th ACM International Conference on Multimedia, 10-14 October 2022. [code](https://github.com/QinYang79/DECL)
 
-- [*TIP'24*] Yongxiang Li, **Yang Qin**, Yuan Sun, Dezhong Peng, Xi Peng, Peng Hu#, [RoMo: Robust Unsupervised Multimodal Learning With Noisy Pseudo Labels](https://ieeexplore.ieee.org/abstract/document/10653726), Proceedings of the 30th ACM International Conference on Multimedia, 10-14 October 2022. [code](https://github.com/sunyuan-cs/2024-TKDE-RMCNC)
-- [*TKDE'24*] Yuan Sun, **Yang Qin**, Yongxiang Li, Dezhong Peng, Xi Peng, Peng Hu#, [Robust Multi-View Clustering With Noisy Correspondence](https://ieeexplore.ieee.org/abstract/document/10595464), Proceedings of the 30th ACM International Conference on Multimedia, 10-14 October 2022. [code](https://github.com/sunyuan-cs/2024-TKDE-RMCNC)
+- [*TIP'24*] Yongxiang Li, **Yang Qin**, Yuan Sun, Dezhong Peng, Xi Peng, Peng Hu#, [RoMo: Robust Unsupervised Multimodal Learning With Noisy Pseudo Labels](https://ieeexplore.ieee.org/abstract/document/10653726), IEEE Transactions on Image Processing, 2024. [code](https://github.com/sunyuan-cs/2024-TKDE-RMCNC)
+- [*TKDE'24*] Yuan Sun, **Yang Qin**, Yongxiang Li, Dezhong Peng, Xi Peng, Peng Hu#, [Robust Multi-View Clustering With Noisy Correspondence](https://ieeexplore.ieee.org/abstract/document/10595464), IEEE Transactions on Knowledge and Data Engineering, 2024. [code](https://github.com/sunyuan-cs/2024-TKDE-RMCNC)
 
 
 
