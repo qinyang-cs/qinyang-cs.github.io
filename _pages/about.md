@@ -28,6 +28,8 @@ If you are interested in collaborating with me or want to have a chat, please fe
 
 # 🔥 News
 
+- *2025.05.01*, one paper was accepted by ICML 2025 (CCF-A). Congrats to Ruitao and coauthors! 🎉 
+- *2025.04.29*, one paper was accepted by IJCAI 2025 (CCF-A). Congrats to Prof. Hu and coauthors! 🎉 
 - *2025.02.27*, one paper about LLM was accepted by CVPR 2025 (CCF-A). Thanks to all coauthors! 🎉 
 - *2025.01.23*, one paper about LLM was accepted by ICLR 2025. Thanks to all coauthors! 🎉 
 - *2025.01.19*, one paper was accepted by TMM (中科院1区). Congrats to Yanglin and coauthors! 🎉
