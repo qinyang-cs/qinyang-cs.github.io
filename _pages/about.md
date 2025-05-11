@@ -16,13 +16,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! My name is Yang Qin (秦阳). I'm a Ph.D. candidate (since 2021) at the College of Computer Science, Sichuan University 🏫, fortunately advised by Prof. [Dezhong Peng](https://cs.scu.edu.cn/info/1182/7307.htm) and Prof. [Peng Hu](https://penghu-cs.github.io/). I also collaborate closely with Prof. [Xi Peng](https://pengxi.me/).
+Hi there! My name is **Yang Qin (秦阳)**. I'm a Ph.D. candidate (since 2021) at [the College of Computer Science](https://cs.scu.edu.cn/e_jsjxy/), [Sichuan University](https://en.scu.edu.cn/), fortunately advised by Prof. [**Dezhong Peng**](https://cs.scu.edu.cn/info/1282/13563.htm) and Prof. [**Peng Hu**](https://penghu-cs.github.io/). I also collaborate closely with Prof. [**Xi Peng**](https://pengxi.me/) and Prof. [**Joey Tianyi Zhou**](https://joeyzhouty.github.io/).
 
 My pursuits center on multimodal learning and large language models, with an emphasis on advancing robustness and cross-modal understanding in AI systems:
 
-- Multimodal Learning 🎑: Multimodal Fusion & Cross-modal Learning > Investigating multimodal fusion mechanisms and cross-modal representation learning paradigm to enable coherent integration of heterogeneous data sources;
-- Robust Machine Learning 🤖: [Noisy Correspondence](https://github.com/QinYang79/Noisy-Correspondence-Summary) & Label in Multimodal Learning > Addressing challenges posed by noisy correspondence and labels in multimodal datasets, making efforts towards a unified noise-resilient multimodal learning framework;
-- Large Language Models 🌟: [Code LLMs  & Application of MLLMs/LLMs](https://qinyang-cs.github.io/projects/LLMs) > Exploring open-generation (e.g., code) capabilities and multimodal extensions for real-world applications, including interactive learning and domain-specific knowledge adaptation.
+- Multimodal Learning 👀: Multimodal Fusion & Cross-modal Learning > Investigating multimodal fusion mechanisms and cross-modal representation learning paradigm to enable coherent integration of heterogeneous data sources;
+- Robust Machine Learning 🦾: [Noisy Correspondence](https://github.com/QinYang79/Noisy-Correspondence-Summary) & Label in Multimodal Learning > Addressing challenges posed by noisy correspondence and labels in multimodal datasets, making efforts towards a unified noise-resilient multimodal learning framework;
+- Large Language Models 🤖: [Code LLMs  & Application of MLLMs/LLMs](https://qinyang-cs.github.io/projects/LLMs) > Exploring open-generation (e.g., code) capabilities and multimodal extensions for real-world applications, including interactive learning and domain-specific knowledge adaptation.
 
 If you are interested in collaborating with me or want to have a chat, please feel free to contact me via email (Any way you like).
 
@@ -31,15 +31,15 @@ If you are interested in collaborating with me or want to have a chat, please fe
 - *2025.05.01*, one paper was accepted by ICML 2025 (CCF-A). Congrats to Ruitao and coauthors! 🎉 
 - *2025.04.29*, one paper was accepted by IJCAI 2025 (CCF-A). Congrats to Prof. Hu and coauthors! 🎉 
 - *2025.02.27*, one paper about LLM was accepted by CVPR 2025 (CCF-A). Thanks to all coauthors! 🎉 
-- *2025.01.23*, one paper about LLM was accepted by ICLR 2025. Thanks to all coauthors! 🎉 
-- *2025.01.19*, one paper was accepted by TMM (中科院1区). Congrats to Yanglin and coauthors! 🎉
-- *2025.01.16*, one paper was accepted by TIFS (中科院1区, CCF-A). Congrats to Yongxiang and coauthors! 🎉
+- *2025.01.23*, one paper about LLM was accepted by ICLR 2025 (😀). Thanks to all coauthors! 🎉 
+- *2025.01.19*, one paper was accepted by TMM (JCR Q1). Congrats to Yanglin and coauthors! 🎉
+- *2025.01.16*, one paper was accepted by TIFS (CCF-A). Congrats to Yongxiang and coauthors! 🎉
 - *2024.12.10*, one paper was accepted by AAAI 2025 (CCF-A). Congrats to Ruitao and coauthors! 🎉
-- *2024.10.28*, one paper was accepted by TMM (中科院1区). Thanks to all coauthors! 🎉
+- *2024.10.28*, one paper was accepted by TMM (JCR Q1). Thanks to all coauthors! 🎉
 - *2024.07.16*, one paper was accepted by ACM MM 2024 (CCF-A). Congrats to Longan (Undergrad) and coauthors! 🎉
-- *2024.06.26*, one paper was accepted by TIP  (中科院1区, CCF-A). Congrats to Yongxiang and coauthors! 🎉
-- *2024.06.23*, one paper was accepted by TKDE (中科院1区, CCF-A). Congrats to Yuan and coauthors! 🎉
-- *2024.04.20*, one paper was accepted by TMM (中科院1区). Congrats to Yuan and the coauthors! 🎉
+- *2024.06.26*, one paper was accepted by TIP  (CCF-A). Congrats to Yongxiang and coauthors! 🎉
+- *2024.06.23*, one paper was accepted by TKDE (CCF-A). Congrats to Yuan and coauthors! 🎉
+- *2024.04.20*, one paper was accepted by TMM (JCR Q1). Congrats to Yuan and the coauthors! 🎉
 - *2024.02.27*, one paper was accepted by CVPR 2024 (CCF-A). Thanks to all coauthors! 🎉 
 - *2023.09.22*, one paper was accepted by NeurIPS 2023 (CCF-A). Thanks to all coauthors! 🎉 
 - *2022.06.30*, one paper was accepted by ACM MM 2022 (CCF-A). Thanks to all coauthors! 🎉
@@ -59,8 +59,7 @@ If you are interested in collaborating with me or want to have a chat, please fe
 - [*TKDE'24*] Yuan Sun, **Yang Qin**, Yongxiang Li, Dezhong Peng, Xi Peng, Peng Hu#, [Robust Multi-View Clustering With Noisy Correspondence](https://ieeexplore.ieee.org/abstract/document/10595464), IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024. [code](https://github.com/sunyuan-cs/2024-TKDE-RMCNC)
 
 
-
-- For others, see [Google Scholar](https://scholar.google.com/citations?user=Ci4FBHoAAAAJ&hl=zh-CN&authuser=1). # and * indicate the corresponding author and equal contribution.
+- For the full list of published papers, see [Google Scholar](https://scholar.google.com/citations?user=Ci4FBHoAAAAJ&hl=zh-CN&authuser=1). # and * indicate the corresponding author and equal contribution.
 
 # 📖 Educations and Experiences
 
