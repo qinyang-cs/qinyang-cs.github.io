@@ -55,9 +55,10 @@ If you are interested in collaborating with me or want to have a chat, please fe
 
 
 - [*ICML'25*] Ruitao Pu, **Yang Qin**, Xiaomin Song, Dezhong Peng, Zhenwen Ren, Yuan Sun, [SHE: Streaming-media Hashing Retrieval](), International Conference on Machine Learning (ICML), 2025. [code]()
+- [*IJCAI'25*] Peng Hu, **Yang Qin**, Yuanbiao Gou, Yunfan Li, Mouxing Yang, Xi Peng, [Probabilistic Multimodal Learning with von Mises-Fisher Distributions](), International Joint Conference on Artificial Intelligence (IJCAI), 2025. [code]()
 - [*TIP'24*] Yongxiang Li, **Yang Qin**, Yuan Sun, Dezhong Peng, Xi Peng, Peng Hu#, [RoMo: Robust Unsupervised Multimodal Learning With Noisy Pseudo Labels](https://ieeexplore.ieee.org/abstract/document/10653726), IEEE Transactions on Image Processing (TIP), 2024. [code](https://github.com/sunyuan-cs/2024-TKDE-RMCNC)
 - [*TKDE'24*] Yuan Sun, **Yang Qin**, Yongxiang Li, Dezhong Peng, Xi Peng, Peng Hu#, [Robust Multi-View Clustering With Noisy Correspondence](https://ieeexplore.ieee.org/abstract/document/10595464), IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024. [code](https://github.com/sunyuan-cs/2024-TKDE-RMCNC)
-
+ 
 
 - For the full list of published papers, see [Google Scholar](https://scholar.google.com/citations?user=Ci4FBHoAAAAJ&hl=zh-CN&authuser=1). # and * indicate the corresponding author and equal contribution.
 
