@@ -77,4 +77,4 @@ If you are interested in collaborating with me or want to have a chat, please fe
 
 # 🙋 Services 
 - *Conference Reviewer*: NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, ACMMM, IJCAI, AAAI, AISTATS, etc.
-- *Journal Reviewer*: TIP, TNNLS, TVCJ, etc.
+- *Journal Reviewer*: TIP, TMM, TNNLS, TVCJ, etc.
