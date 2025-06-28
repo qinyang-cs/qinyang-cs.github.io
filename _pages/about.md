@@ -28,8 +28,9 @@ If you are interested in collaborating with me or want to have a chat, please fe
 
 # 🔥 News
 
-- *2025.05.01*, one paper was accepted by ICML 2025 (CCF-A). Congrats to Ruitao and coauthors! 🎉 
-- *2025.04.29*, one paper was accepted by IJCAI 2025 (CCF-A). Congrats to Prof. Hu and coauthors! 🎉 
+- *2025.06.28*, one paper was accepted by TIP 2025 (CCF-A). Thanks to all coauthors! 🎉
+- *2025.05.01*, one paper was accepted by ICML 2025 (CCF-A). Congrats to Ruitao and coauthors! 🎉
+- *2025.04.29*, one paper was accepted by IJCAI 2025 (CCF-A). Congrats to Prof. Hu and coauthors! 🎉
 - *2025.02.27*, one paper about LLM was accepted by CVPR 2025 (CCF-A). Thanks to all coauthors! 🎉 
 - *2025.01.23*, one paper about LLM was accepted by ICLR 2025 (😀). Thanks to all coauthors! 🎉 
 - *2025.01.19*, one paper was accepted by TMM (JCR Q1). Congrats to Yanglin and coauthors! 🎉
@@ -46,6 +47,7 @@ If you are interested in collaborating with me or want to have a chat, please fe
 
 
 # 📝 Publications (selected)
+- [*TIP'25*] **Yang Qin**, Lifu Huang, Dezhong Peng, Bohan Jiang, Joey Tianyi Zhou, Xi Peng, Peng Hu#, [Trustworthy Visual-Textual Retrieval](https://github.com/QinYang79/TCL), IEEE Transactions on Image Processing (TIP), 2025. [code](https://github.com/QinYang79/TCL)
 - [*CVPR'25*] **Yang Qin**, Chao Chen, Zhihang Fu, Dezhong Peng, Xi Peng, Peng Hu#, [Human-centered Interactive Learning via MLLMs for Text-to-Image Person Re-identification](https://openaccess.thecvf.com/content/CVPR2025/papers/Qin_Human-centered_Interactive_Learning_via_MLLMs_for_Text-to-Image_Person_Re-identification_CVPR_2025_paper.pdf), IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025. [code](https://github.com/QinYang79/ICL)
 - [*ICLR'25*] **Yang Qin**, Chao Chen, Zhihang Fu, Ze Chen, Dezhong Peng#, Peng Hu#, Jieping Ye, [ROUTE: Robust Multitask Tuning and Collaboration for Text-to-SQL](https://openreview.net/pdf?id=BAglD6NGy0), International Conference on Learning Representations (ICLR), 2025. [code](https://github.com/alibaba/Route)
 - [*TMM'24*] Ruitao Pu*, **Yang Qin\***, Dezhong Peng#, Xiaoming Song, Huiming Zheng, [Deep Reversible Consistency Learning for Cross-modal Retrieval](https://arxiv.org/pdf/2501.05686), IEEE Transactions on Multimedia (TMM), 2024. [code](https://github.com/perquisite/DRCL)
@@ -76,5 +78,5 @@ If you are interested in collaborating with me or want to have a chat, please fe
 - *2022.10*, PhD student Innovation Scholarship.
 
 # 🙋 Services 
-- *Conference Reviewer*: NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, ACMMM, IJCAI, AAAI, AISTATS, etc.
+- *Conference Reviewer*: NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, ACMMM, IJCAI, AAAI, ACL, etc.
 - *Journal Reviewer*: TIP, TMM, TNNLS, TVCJ, etc.
