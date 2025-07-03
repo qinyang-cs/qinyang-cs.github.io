@@ -16,13 +16,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! My name is **Yang Qin (秦阳)**. I'm a Ph.D. candidate (since 2021) at [the College of Computer Science](https://cs.scu.edu.cn/e_jsjxy/), [Sichuan University](https://en.scu.edu.cn/), fortunately advised by Prof. [**Dezhong Peng**](https://cs.scu.edu.cn/info/1282/13563.htm) and Prof. [**Peng Hu**](https://penghu-cs.github.io/). I also collaborate closely with Prof. [**Xi Peng**](https://pengxi.me/) and Prof. [**Joey Tianyi Zhou**](https://joeyzhouty.github.io/).
+Hi there! My name is **Yang Qin (秦阳)**. I'm a Ph.D. candidate (since 2021) at [the College of Computer Science](https://cs.scu.edu.cn/e_jsjxy/), [Sichuan University](https://en.scu.edu.cn/), fortunately advised by Prof. [Dezhong Peng](https://cs.scu.edu.cn/info/1282/13563.htm) and Prof. [Peng Hu](https://penghu-cs.github.io/). I also collaborate closely with Prof. [Xi Peng](https://pengxi.me/) and Prof. [Joey Tianyi Zhou](https://joeyzhouty.github.io/). I used to serve as a research intern at Apsara Lab (led by [Jieping Ye](https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=T9AzhwcAAAAJ)), Alibaba Cloud from May to December 2025.
 
 My pursuits center on multimodal learning and large language models, with an emphasis on advancing robustness and cross-modal understanding in AI systems:
 
-- Multimodal Learning 👀: Multimodal Fusion & Cross-modal Learning > Investigating multimodal fusion mechanisms and cross-modal representation learning paradigm to enable coherent integration of heterogeneous data sources;
-- Robust Machine Learning 🦾: [Noisy Correspondence](https://github.com/QinYang79/Noisy-Correspondence-Summary) & Label in Multimodal Learning > Addressing challenges posed by noisy correspondence and labels in multimodal datasets, making efforts towards a unified noise-resilient multimodal learning framework;
-- Large Language Models 🤖: [Code LLMs  & Application of MLLMs/LLMs](https://qinyang-cs.github.io/projects/LLMs) > Exploring open-generation (e.g., code) capabilities and multimodal extensions for real-world applications, including interactive learning and domain-specific knowledge adaptation.
+- **Multimodal Learning** 👀: Multimodal Fusion & Cross-modal Learning > Investigating multimodal fusion mechanisms and cross-modal representation learning paradigm to enable coherent integration of heterogeneous data sources;
+- **Robust Machine Learning** 🦾: [Noisy Correspondence](https://github.com/QinYang79/Noisy-Correspondence-Summary) & Label in Multimodal Learning > Addressing challenges posed by noisy correspondence and labels in multimodal datasets, making efforts towards a unified noise-resilient multimodal learning framework;
+- **Large Language Models** 🤖: [Code LLMs  & Application of MLLMs/LLMs](https://qinyang-cs.github.io/projects/LLMs) > Exploring open-generation (e.g., code) capabilities and multimodal extensions for real-world applications, including interactive learning and domain-specific knowledge adaptation.
 
 If you are interested in collaborating with me or want to have a chat, please feel free to contact me via email (Any way you like).
 
