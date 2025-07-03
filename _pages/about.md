@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! My name is **Yang Qin (秦阳)**. I'm a Ph.D. candidate (since 2021) at [the College of Computer Science](https://cs.scu.edu.cn/e_jsjxy/), [Sichuan University](https://en.scu.edu.cn/), fortunately advised by Prof. [Dezhong Peng](https://cs.scu.edu.cn/info/1282/13563.htm) and Prof. [Peng Hu](https://penghu-cs.github.io/). I also collaborate closely with Prof. [Xi Peng](https://pengxi.me/) and Prof. [Joey Tianyi Zhou](https://joeyzhouty.github.io/). I used to serve as a research intern at Apsara Lab (led by [Jieping Ye](https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=T9AzhwcAAAAJ)), Alibaba Cloud from May to December 2025.
+Hi there! My name is **Yang Qin (秦阳)**. I'm a Ph.D. candidate (since 2021) at [the College of Computer Science](https://cs.scu.edu.cn/e_jsjxy/), [Sichuan University](https://en.scu.edu.cn/), fortunately advised by Prof. [Dezhong Peng](https://cs.scu.edu.cn/info/1282/13563.htm) and Prof. [Peng Hu](https://penghu-cs.github.io/). I also collaborate closely with Prof. [Xi Peng](https://pengxi.me/) and Prof. [Joey Tianyi Zhou](https://joeyzhouty.github.io/). I used to serve as a research intern at Apsara Lab (led by [Jieping Ye](https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=T9AzhwcAAAAJ)), Alibaba Cloud, from May to December 2024.
 
 My pursuits center on multimodal learning and large language models, with an emphasis on advancing robustness and cross-modal understanding in AI systems:
 
