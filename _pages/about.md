@@ -28,6 +28,7 @@ If you are interested in collaborating with me or want to have a chat, please fe
 
 # 🔥 News
 
+- *2025.06.28*, one paper was accepted by ACM MM 2025 (CCF-A). Congrats to Ao Yang and coauthors! 🎉
 - *2025.06.28*, one paper was accepted by TIP 2025 (CCF-A). Thanks to all coauthors! 🎉
 - *2025.05.01*, one paper was accepted by ICML 2025 (CCF-A). Congrats to Ruitao and coauthors! 🎉
 - *2025.04.29*, one paper was accepted by IJCAI 2025 (CCF-A). Congrats to Prof. Hu and coauthors! 🎉
@@ -46,7 +47,9 @@ If you are interested in collaborating with me or want to have a chat, please fe
 - *2022.06.30*, one paper was accepted by ACM MM 2022 (CCF-A). Thanks to all coauthors! 🎉
 
 
+
 # 📝 Publications (selected)
+- [*ACM MM'25*] Ao Yang, Yanglin Feng, Yuan Sun, Dezhong Peng, Guiduo Duan, **Yang Qin#**, [Noise-robust Cross-modal Learning for Reliable 2D-3D Retrieval](https://github.com/QinYang79/NRCH), Proceedings of the 33rd ACM International Conference on Multimedia, 27-31 October 2025. [code](https://github.com/QinYang79/TCL)
 - [*TIP'25*] **Yang Qin**, Lifu Huang, Dezhong Peng, Bohan Jiang, Joey Tianyi Zhou, Xi Peng, Peng Hu#, [Trustworthy Visual-Textual Retrieval](https://github.com/QinYang79/TCL), IEEE Transactions on Image Processing (TIP), 2025. [code](https://github.com/QinYang79/TCL)
 - [*CVPR'25*] **Yang Qin**, Chao Chen, Zhihang Fu, Dezhong Peng, Xi Peng, Peng Hu#, [Human-centered Interactive Learning via MLLMs for Text-to-Image Person Re-identification](https://openaccess.thecvf.com/content/CVPR2025/papers/Qin_Human-centered_Interactive_Learning_via_MLLMs_for_Text-to-Image_Person_Re-identification_CVPR_2025_paper.pdf), IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025. [code](https://github.com/QinYang79/ICL)
 - [*ICLR'25*] **Yang Qin**, Chao Chen, Zhihang Fu, Ze Chen, Dezhong Peng#, Peng Hu#, Jieping Ye, [ROUTE: Robust Multitask Tuning and Collaboration for Text-to-SQL](https://openreview.net/pdf?id=BAglD6NGy0), International Conference on Learning Representations (ICLR), 2025. [code](https://github.com/alibaba/Route)
