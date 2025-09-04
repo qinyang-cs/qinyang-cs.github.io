@@ -69,9 +69,9 @@ If you are interested in collaborating with me or want to have a chat, please fe
 
 # 📖 Educations and Experiences
 
-- *2021.09 -  now*, PhD, the College of Computer Science, Sichuan University, Chengdu China.
-- *2024.05 -  2024.12*, the Research Internship at Alibaba Cloud (Apsara Lab led by [Jieping Ye](https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=T9AzhwcAAAAJ)), Hangzhou China.
-- *2017.09 - 2021.06*, Undergraduate,  the College of Software Engineering, Sichuan University, Chengdu China.
+- *2021.09 -  now*, PhD, the College of Computer Science, Sichuan University, Chengdu, China.
+- *2024.05 -  2024.12*, the Research Internship at Alibaba Cloud (Apsara Lab led by [Jieping Ye](https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=T9AzhwcAAAAJ)), Hangzhou, China.
+- *2017.09 - 2021.06*, Undergraduate,  the College of Software Engineering, Sichuan University, Chengdu, China.
 
 # 🎖 Honors and Awards
 - *2024.11*, PhD student National Scholarship.
@@ -82,4 +82,4 @@ If you are interested in collaborating with me or want to have a chat, please fe
 
 # 🙋 Services 
 - *Conference Reviewer*: NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, ACMMM, IJCAI, AAAI, ACL, etc.
-- *Journal Reviewer*: TIP, TMM, TNNLS, TVCJ, etc.
+- *Journal Reviewer*: TIP, TMM, TNNLS, TVCJ, PR, TOIS, etc.
