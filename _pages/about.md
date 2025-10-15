@@ -76,6 +76,8 @@ If you are interested in collaborating with me or want to have a chat, please fe
 - *2017.09 - 2021.06*, Undergraduate,  the College of Software Engineering, Sichuan University, Chengdu, China.
 
 # 🎖 Honors and Awards
+
+- *2025.10*, PhD student National Scholarship.
 - *2024.11*, PhD student National Scholarship.
 - *2024.10*, Outstanding Graduate Student of Sichuan University.
 - *2023.10*, Tencent Scholarship.
