@@ -50,7 +50,7 @@ If you are interested in collaborating with me or want to have a chat, please fe
 
 
 # 📝 Publications (selected)
-- [*ACM MM'25*] Ao Yang, Yanglin Feng, Yuan Sun, Dezhong Peng, Guiduo Duan, **Yang Qin#**, [Noise-Robust Cross-modal Learning for Reliable 2D-3D Retrieval](https://github.com/yangaonidaye123/NRCL), Proceedings of the 33rd ACM International Conference on Multimedia, 27-31 October 2025. [code](https://github.com/yangaonidaye123/NRCL)
+- [*ACM MM'25*] Ao Yang, Yanglin Feng, Yuan Sun, Dezhong Peng, Guiduo Duan, **Yang Qin#**, [Noise-Robust Cross-modal Learning for Reliable 2D-3D Retrieval](https://dl.acm.org/doi/abs/10.1145/3746027.3755330), Proceedings of the 33rd ACM International Conference on Multimedia, 27-31 October 2025. [code](https://github.com/yangaonidaye123/NRCL)
 - [*TIP'25*] **Yang Qin**, Lifu Huang, Dezhong Peng, Bohan Jiang, Joey Tianyi Zhou, Xi Peng, Peng Hu#, [Trustworthy Visual-Textual Retrieval](https://github.com/QinYang79/TCL), IEEE Transactions on Image Processing (TIP), 2025. [code](https://github.com/QinYang79/TCL)
 - [*CVPR'25*] **Yang Qin**, Chao Chen, Zhihang Fu, Dezhong Peng, Xi Peng, Peng Hu#, [Human-centered Interactive Learning via MLLMs for Text-to-Image Person Re-identification](https://openaccess.thecvf.com/content/CVPR2025/papers/Qin_Human-centered_Interactive_Learning_via_MLLMs_for_Text-to-Image_Person_Re-identification_CVPR_2025_paper.pdf), IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025. [code](https://github.com/QinYang79/ICL)
 - [*ICLR'25*] **Yang Qin**, Chao Chen, Zhihang Fu, Ze Chen, Dezhong Peng#, Peng Hu#, Jieping Ye, [ROUTE: Robust Multitask Tuning and Collaboration for Text-to-SQL](https://openreview.net/pdf?id=BAglD6NGy0), International Conference on Learning Representations (ICLR), 2025. [code](https://github.com/alibaba/Route)
@@ -88,4 +88,4 @@ If you are interested in collaborating with me or want to have a chat, please fe
 - 2026: AAAI, ICLR, CVPR
 - 2025: AAAI, ICLR, CVPR, ICML, IJCAI, ACM MM, ACL, WACV, AISTATS, NeurIPS
 - *Conference Reviewer*: NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, ACMMM, IJCAI, AAAI, ACL, etc.
-- *Journal Reviewer*: TIP, TMM, TNNLS, TVCJ, PR, TOIS, etc.
+- *Journal Reviewer*: TPAMI, TIP, TMM, TNNLS, TVCJ, PR, TOIS, etc.
