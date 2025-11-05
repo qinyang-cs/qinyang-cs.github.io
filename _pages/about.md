@@ -28,13 +28,14 @@ If you are interested in collaborating with me or want to have a chat, please fe
 
 # 🔥 News
 
-- *2025.09.19*, one paper about LLM was accepted by NeurIPS 2025 (Oral, CCF-A). Congrats to Yanglin and coauthors! 🎉
+- *2025.09.19*, one paper about [LLM](https://qinyang-cs.github.io/projects/LLMs) was accepted by NeurIPS 2025 (Oral, CCF-A). Congrats to Yanglin and coauthors! 🎉
+- *2025.08.27*, one project paper about [Agentic RL](https://qinyang-cs.github.io/projects/LLMs) (Deep Research) was released. Congrats to all authors! 🎉
 - *2025.07.05*, one paper was accepted by ACM MM 2025 (CCF-A). Congrats to Ao Yang and coauthors! 🎉
 - *2025.06.28*, one paper was accepted by TIP 2025 (CCF-A). Thanks to all coauthors! 🎉
 - *2025.05.01*, one paper was accepted by ICML 2025 (CCF-A). Congrats to Ruitao and coauthors! 🎉
 - *2025.04.29*, one paper was accepted by IJCAI 2025 (CCF-A). Congrats to Prof. Hu and coauthors! 🎉
-- *2025.02.27*, one paper about LLM was accepted by CVPR 2025 (CCF-A). Thanks to all coauthors! 🎉 
-- *2025.01.23*, one paper about LLM was accepted by ICLR 2025 (😀). Thanks to all coauthors! 🎉 
+- *2025.02.27*, one paper about [LLM](https://qinyang-cs.github.io/projects/LLMs) was accepted by CVPR 2025 (CCF-A). Thanks to all coauthors! 🎉 
+- *2025.01.23*, one paper about [LLM](https://qinyang-cs.github.io/projects/LLMs) was accepted by ICLR 2025 (😀). Thanks to all coauthors! 🎉 
 - *2025.01.19*, one paper was accepted by TMM (JCR Q1). Congrats to Yanglin and coauthors! 🎉
 - *2025.01.16*, one paper was accepted by TIFS (CCF-A). Congrats to Yongxiang and coauthors! 🎉
 - *2024.12.10*, one paper was accepted by AAAI 2025 (CCF-A). Congrats to Ruitao and coauthors! 🎉
