@@ -29,7 +29,7 @@ If you are interested in collaborating with me or want to have a chat, please fe
 # 🔥 News
 
 - *2025.09.19*, one paper about [LLM](https://qinyang-cs.github.io/projects/LLMs) was accepted by NeurIPS 2025 (Oral, CCF-A). Congrats to Yanglin and coauthors! 🎉
-- *2025.08.27*, one project paper about [Agentic RL](https://qinyang-cs.github.io/projects/LLMs) (Deep Research) was released. Congrats to all authors! 🎉
+- *2025.08.27*, one project paper about LLM [Agentic RL](https://arxiv.org/pdf/2508.12800) (Deep Research) was released. Congrats to all authors! 🎉
 - *2025.07.05*, one paper was accepted by ACM MM 2025 (CCF-A). Congrats to Ao Yang and coauthors! 🎉
 - *2025.06.28*, one paper was accepted by TIP 2025 (CCF-A). Thanks to all coauthors! 🎉
 - *2025.05.01*, one paper was accepted by ICML 2025 (CCF-A). Congrats to Ruitao and coauthors! 🎉
