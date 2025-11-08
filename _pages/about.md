@@ -28,6 +28,7 @@ If you are interested in collaborating with me or want to have a chat, please fe
 
 # 🔥 News
 
+- *2025.11.08*, one paper was accepted by AAAI 2026 (Oral, CCF-A). Thanks to all coauthors! 🎉
 - *2025.09.19*, one paper about [LLM](https://qinyang-cs.github.io/projects/LLMs) was accepted by NeurIPS 2025 (Oral, CCF-A). Congrats to Yanglin and coauthors! 🎉
 - *2025.08.27*, one project paper about LLM [Agentic RL](https://arxiv.org/pdf/2508.12800) (Deep Research) was released. Congrats to all authors! 🎉
 - *2025.07.05*, one paper was accepted by ACM MM 2025 (CCF-A). Congrats to Ao Yang and coauthors! 🎉
@@ -51,6 +52,7 @@ If you are interested in collaborating with me or want to have a chat, please fe
 
 
 # 📝 Publications (selected)
+- [*AAAI'26*] **Yang Qin**, Yuan Sun, Xi Peng, Dezhong Peng, Joey Tianyi Zhou, Xiaomin Song, Peng Hu#, [Robust Semi-paired Multimodal Learning for Cross-modal Retrieval](https://github.com/QinYang79/RSCL), The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2026, Oral. [code](https://github.com/QinYang79/RSCL)
 - [*ACM MM'25*] Ao Yang, Yanglin Feng, Yuan Sun, Dezhong Peng, Guiduo Duan, **Yang Qin#**, [Noise-Robust Cross-modal Learning for Reliable 2D-3D Retrieval](https://dl.acm.org/doi/abs/10.1145/3746027.3755330), Proceedings of the 33rd ACM International Conference on Multimedia, 27-31 October 2025. [code](https://github.com/yangaonidaye123/NRCL)
 - [*TIP'25*] **Yang Qin**, Lifu Huang, Dezhong Peng, Bohan Jiang, Joey Tianyi Zhou, Xi Peng, Peng Hu#, [Trustworthy Visual-Textual Retrieval](https://github.com/QinYang79/TCL), IEEE Transactions on Image Processing (TIP), 2025. [code](https://github.com/QinYang79/TCL)
 - [*CVPR'25*] **Yang Qin**, Chao Chen, Zhihang Fu, Dezhong Peng, Xi Peng, Peng Hu#, [Human-centered Interactive Learning via MLLMs for Text-to-Image Person Re-identification](https://openaccess.thecvf.com/content/CVPR2025/papers/Qin_Human-centered_Interactive_Learning_via_MLLMs_for_Text-to-Image_Person_Re-identification_CVPR_2025_paper.pdf), IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025. [code](https://github.com/QinYang79/ICL)
