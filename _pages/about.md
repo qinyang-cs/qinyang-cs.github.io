@@ -88,7 +88,7 @@ If you are interested in collaborating with me or want to have a chat, please fe
 - *2022.10*, PhD student Innovation Scholarship.
 
 # 🙋 Services 
-- 2026: AAAI, ICLR, CVPR
+- 2026: AAAI, ICLR, CVPR, ICML
 - 2025: AAAI, ICLR, CVPR, ICML, IJCAI, ACM MM, ACL, WACV, AISTATS, NeurIPS
 - *Conference Reviewer*: NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, ACMMM, IJCAI, AAAI, ACL, etc.
 - *Journal Reviewer*: TPAMI, TIP, TMM, TNNLS, TVCJ, PR, TOIS, etc.
