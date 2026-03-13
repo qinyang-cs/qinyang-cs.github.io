@@ -16,7 +16,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! My name is **Yang Qin (秦阳)**. I'm a Ph.D. candidate (since 2021) at [the College of Computer Science](https://cs.scu.edu.cn/e_jsjxy/), [Sichuan University](https://en.scu.edu.cn/), fortunately advised by Prof. [Dezhong Peng](https://cs.scu.edu.cn/info/1282/13563.htm) and Prof. [Peng Hu](https://penghu-cs.github.io/). I also collaborate closely with Prof. [Xi Peng](https://pengxi.me/) and Prof. [Joey Tianyi Zhou](https://joeyzhouty.github.io/). I used to serve as a research intern at Apsara Lab (led by [Jieping Ye](https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=T9AzhwcAAAAJ)), Alibaba Cloud, from May to December 2024.
+Hi there! My name is **Yang Qin (秦阳)**. I'm a Ph.D. candidate (since 2021) at [the College of Computer Science](https://cs.scu.edu.cn/e_jsjxy/), [Sichuan University](https://en.scu.edu.cn/), fortunately advised by Prof. [Dezhong Peng](https://cs.scu.edu.cn/info/1282/13563.htm) and Prof. [Peng Hu](https://penghu-cs.github.io/). I also collaborate closely with Prof. [Xi Peng](https://pengxi.me/) and Prof. [Joey Tianyi Zhou](https://joeyzhouty.github.io/). From May to December 2024, I used to serve as a research intern at Apsara Lab (led by [Jieping Ye](https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=T9AzhwcAAAAJ)) at Alibaba Cloud, conducting research on Code LLMs.   From June to September 2025, I conducted research on [Agentic Deep Research](https://github.com/antgroup/Research-Venus) at Ant Group. Recently, I have been working with [Zhaopeng Tu](https://tuzhaopeng.github.io/)
+and conducting research on multimodal agents in Digital  Beings at Multimodal Department, Hunyuan, Tencent.
 
 My pursuits center on multimodal learning and large language models, with an emphasis on advancing robustness and cross-modal understanding in AI systems:
 
@@ -34,17 +35,17 @@ If you are interested in collaborating with me or want to have a chat, please fe
 - *2025.07.05*, one paper was accepted by ACM MM 2025 (CCF-A). Congrats to Ao Yang and coauthors! 🎉
 - *2025.06.28*, one paper was accepted by TIP 2025 (CCF-A). Thanks to all coauthors! 🎉
 - *2025.05.01*, one paper was accepted by ICML 2025 (CCF-A). Congrats to Ruitao and coauthors! 🎉
-- *2025.04.29*, one paper was accepted by IJCAI 2025 (CCF-A). Congrats to Prof. Hu and coauthors! 🎉
+- *2025.04.29*, one paper was accepted by IJCAI 2025 (CCF-B). Congrats to Prof. Hu and coauthors! 🎉
 - *2025.02.27*, one paper about [LLM](https://qinyang-cs.github.io/projects/LLMs) was accepted by CVPR 2025 (CCF-A). Thanks to all coauthors! 🎉 
-- *2025.01.23*, one paper about [LLM](https://qinyang-cs.github.io/projects/LLMs) was accepted by ICLR 2025 (😀). Thanks to all coauthors! 🎉 
-- *2025.01.19*, one paper was accepted by TMM (JCR Q1). Congrats to Yanglin and coauthors! 🎉
+- *2025.01.23*, one paper about [LLM](https://qinyang-cs.github.io/projects/LLMs) was accepted by ICLR 2025 (CCF-A). Thanks to all coauthors! 🎉 
+- *2025.01.19*, one paper was accepted by TMM (CCF-A). Congrats to Yanglin and coauthors! 🎉
 - *2025.01.16*, one paper was accepted by TIFS (CCF-A). Congrats to Yongxiang and coauthors! 🎉
 - *2024.12.10*, one paper was accepted by AAAI 2025 (CCF-A). Congrats to Ruitao and coauthors! 🎉
-- *2024.10.28*, one paper was accepted by TMM (JCR Q1). Thanks to all coauthors! 🎉
+- *2024.10.28*, one paper was accepted by TMM (CCF-A). Thanks to all coauthors! 🎉
 - *2024.07.16*, one paper was accepted by ACM MM 2024 (CCF-A). Congrats to Longan (Undergrad) and coauthors! 🎉
 - *2024.06.26*, one paper was accepted by TIP  (CCF-A). Congrats to Yongxiang and coauthors! 🎉
 - *2024.06.23*, one paper was accepted by TKDE (CCF-A). Congrats to Yuan and coauthors! 🎉
-- *2024.04.20*, one paper was accepted by TMM (JCR Q1). Congrats to Yuan and the coauthors! 🎉
+- *2024.04.20*, one paper was accepted by TMM (CCF-A). Congrats to Yuan and the coauthors! 🎉
 - *2024.02.27*, one paper was accepted by CVPR 2024 (CCF-A). Thanks to all coauthors! 🎉 
 - *2023.09.22*, one paper was accepted by NeurIPS 2023 (CCF-A). Thanks to all coauthors! 🎉 
 - *2022.06.30*, one paper was accepted by ACM MM 2022 (CCF-A). Thanks to all coauthors! 🎉
@@ -74,6 +75,7 @@ If you are interested in collaborating with me or want to have a chat, please fe
 # 📖 Educations and Experiences
 
 - *2021.09 -  now*, PhD, the College of Computer Science, Sichuan University, Chengdu, China.
+- *2026.02 -  now*, the Research Internship at Tencent (Hunyuan), Shenzhen, China.
 - *2025.06 -  2025.09*, the Summer Internship at Ant Group, Hangzhou, China.
 - *2024.05 -  2024.12*, the Research Internship at Alibaba Cloud (Apsara Lab led by [Jieping Ye](https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=T9AzhwcAAAAJ)), Hangzhou, China.
 - *2017.09 - 2021.06*, Undergraduate,  the College of Software Engineering, Sichuan University, Chengdu, China.
@@ -88,7 +90,7 @@ If you are interested in collaborating with me or want to have a chat, please fe
 - *2022.10*, PhD student Innovation Scholarship.
 
 # 🙋 Services 
-- 2026: AAAI, ICLR, CVPR, ICML
+- 2026: AAAI, ICLR, CVPR, ICML, IJCAI
 - 2025: AAAI, ICLR, CVPR, ICML, IJCAI, ACM MM, ACL, WACV, AISTATS, NeurIPS
 - *Conference Reviewer*: NeurIPS, ICLR, ICML, CVPR, ICCV, ECCV, ACMMM, IJCAI, AAAI, ACL, etc.
 - *Journal Reviewer*: TPAMI, TIP, TMM, TNNLS, TVCJ, PR, TOIS, etc.
