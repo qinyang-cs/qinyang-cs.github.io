@@ -28,6 +28,7 @@ If you are interested in collaborating with me or want to have a chat, please fe
 
 # 🔥 News
 
+- *2026.03.28*, one paper was accepted by TPAMI (CCF-A). Thanks to all coauthors! 🎉
 - *2025.11.08*, one paper was accepted by AAAI 2026 (Oral, accept rate=1.2%, CCF-A). Thanks to all coauthors! 🎉
 - *2025.09.19*, one paper about [LLM](https://qinyang-cs.github.io/projects/LLMs) was accepted by NeurIPS 2025 (Oral, accept rate=0.36%, CCF-A). Congrats to Yanglin and coauthors! 🎉
 - *2025.08.27*, one project paper about LLM [Agentic RL](https://github.com/antgroup/Research-Venus) (Deep Research) was released. Congrats to all authors! 🎉
@@ -52,6 +53,7 @@ If you are interested in collaborating with me or want to have a chat, please fe
 
 
 # 📝 Publications (selected)
+- [*TPAMI'26*] **Yang Qin\***, Yanglin Feng*, Yuan Sun, Dezhong Peng, Xi Peng, Peng Hu#, [Deep Information-Balanced Multimodal Learning](https://github.com/QinYang79/IBML), IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026. [code]()
 - [*AAAI'26*] **Yang Qin**, Yuan Sun, Xi Peng, Dezhong Peng, Joey Tianyi Zhou, Xiaomin Song, Peng Hu#, [Robust Semi-paired Multimodal Learning for Cross-modal Retrieval](https://github.com/QinYang79/RSCL), The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2026, Oral. [code](https://github.com/QinYang79/RSCL)
 - [*ACM MM'25*] Ao Yang, Yanglin Feng, Yuan Sun, Dezhong Peng, Guiduo Duan, **Yang Qin#**, [Noise-Robust Cross-modal Learning for Reliable 2D-3D Retrieval](https://dl.acm.org/doi/abs/10.1145/3746027.3755330), Proceedings of the 33rd ACM International Conference on Multimedia, 27-31 October 2025. [code](https://github.com/yangaonidaye123/NRCL)
 - [*TIP'25*] **Yang Qin**, Lifu Huang, Dezhong Peng, Bohan Jiang, Joey Tianyi Zhou, Xi Peng, Peng Hu#, [Trustworthy Visual-Textual Retrieval](https://github.com/QinYang79/TCL), IEEE Transactions on Image Processing (TIP), 2025. [code](https://github.com/QinYang79/TCL)
