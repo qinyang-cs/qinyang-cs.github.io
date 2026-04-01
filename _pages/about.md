@@ -54,7 +54,7 @@ If you are interested in collaborating with me or want to have a chat, please fe
 </ul>
 </div>
 
-# 📝 Selected Publications (Please refer to full list on <a href="https://scholar.google.com/citations?user=Ci4FBHoAAAAJ&hl=zh-CN&authuser=1">Google Scholar</a>)
+# 📝 Publications (Please refer to full list on <a href="https://scholar.google.com/citations?user=Ci4FBHoAAAAJ&hl=zh-CN&authuser=1">Google Scholar</a>)
 
 <div style="max-height: 455px; overflow-y: auto; border-radius: 5px; background-color: #f9f9f9; scrollbar-width: none; -ms-overflow-style: none;">
 <ul>
