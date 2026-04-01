@@ -29,7 +29,7 @@ If you are interested in collaborating with me or want to have a chat, please fe
 # 🔥 News
 
 <div style="max-height: 300px; overflow-y: auto; padding-right: 10px; border-radius: 5px; background-color: #f9f9f9; padding: 15px;">
-<ul>
+<ul style="padding-left: 20px; margin: 0;">
 <li><em>2026.03.28</em>, one paper was accepted by TPAMI (CCF-A). Thanks to all coauthors! 🎉</li>
 <li><em>2025.11.08</em>, one paper was accepted by AAAI 2026 (Oral, accept rate=1.2%, CCF-A). Thanks to all coauthors! 🎉</li>
 <li><em>2025.09.19</em>, one paper about <a href="https://qinyang-cs.github.io/projects/LLMs">LLM</a> was accepted by NeurIPS 2025 (Oral, accept rate=0.36%, CCF-A). Congrats to Yanglin and coauthors! 🎉</li>
@@ -59,7 +59,7 @@ If you are interested in collaborating with me or want to have a chat, please fe
 # 📝 Publications (selected)
 
 <div style="max-height: 500px; overflow-y: auto; padding-right: 10px; border-radius: 5px; background-color: #f9f9f9; padding: 15px;">
-<ul>
+<ul style="padding-left: 20px; margin: 0;">
 <li>[<em>TPAMI'26</em>] <strong>Yang Qin\*</strong>, Yanglin Feng*, Yuan Sun, Dezhong Peng, Xi Peng, Peng Hu#, <a href="https://github.com/QinYang79/IBML">Deep Information-Balanced Multimodal Learning</a>, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026. <a href="">code</a></li>
 <li>[<em>AAAI'26</em>] <strong>Yang Qin</strong>, Yuan Sun, Xi Peng, Dezhong Peng, Joey Tianyi Zhou, Xiaomin Song, Peng Hu#, <a href="https://github.com/QinYang79/RSCL">Robust Semi-paired Multimodal Learning for Cross-modal Retrieval</a>, The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2026, Oral. <a href="https://github.com/QinYang79/RSCL">code</a></li>
 <li>[<em>ACM MM'25</em>] Ao Yang, Yanglin Feng, Yuan Sun, Dezhong Peng, Guiduo Duan, <strong>Yang Qin#</strong>, <a href="https://dl.acm.org/doi/abs/10.1145/3746027.3755330">Noise-Robust Cross-modal Learning for Reliable 2D-3D Retrieval</a>, Proceedings of the 33rd ACM International Conference on Multimedia, 27-31 October 2025. <a href="https://github.com/yangaonidaye123/NRCL">code</a></li>
@@ -71,7 +71,7 @@ If you are interested in collaborating with me or want to have a chat, please fe
 <li>[<em>NeurIPS'23</em>] <strong>Yang Qin</strong>, Yuan Sun, Dezhong Peng, Joey Tianyi Zhou, Xi Peng, Peng Hu#, <a href="https://openreview.net/pdf?id=UBBeUjTja8">Cross-modal Active Complementary Learning with Self-refining Correspondence</a>, Neural Information Processing Systems (NeurIPS), 2023.  <a href="https://github.com/QinYang79/CRCL">code</a></li>
 <li>[<em>ACM MM'22</em>] <strong>Yang Qin</strong>, Dezhong Peng, Xi Peng, Xu Wang, Peng Hu#, <a href="https://drive.google.com/file/d/1YVXD2ki5txBY6khG62EHwCi6cnQVRE4I/view">Deep Evidential Learning with Noisy Correspondence for Cross-modal Retrieval</a>, Proceedings of the 30th ACM International Conference on Multimedia, 10-14 October 2022. <a href="https://github.com/QinYang79/DECL">code</a></li>
 </ul>
-<ul>
+<ul style="padding-left: 20px; margin: 0;">
 <li>[<em>ICML'25</em>] Ruitao Pu, <strong>Yang Qin</strong>, Xiaomin Song, Dezhong Peng, Zhenwen Ren, Yuan Sun, <a href="">SHE: Streaming-media Hashing Retrieval</a>, International Conference on Machine Learning (ICML), 2025. <a href="">code</a></li>
 <li>[<em>IJCAI'25</em>] Peng Hu, <strong>Yang Qin</strong>, Yuanbiao Gou, Yunfan Li, Mouxing Yang, Xi Peng, <a href="">Probabilistic Multimodal Learning with von Mises-Fisher Distributions</a>, International Joint Conference on Artificial Intelligence (IJCAI), 2025. <a href="">code</a></li>
 <li>[<em>TIP'24</em>] Yongxiang Li, <strong>Yang Qin</strong>, Yuan Sun, Dezhong Peng, Xi Peng, Peng Hu#, <a href="https://ieeexplore.ieee.org/abstract/document/10653726">RoMo: Robust Unsupervised Multimodal Learning With Noisy Pseudo Labels</a>, IEEE Transactions on Image Processing (TIP), 2024. <a href="https://github.com/sunyuan-cs/2024-TKDE-RMCNC">code</a></li>
