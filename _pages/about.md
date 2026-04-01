@@ -28,7 +28,7 @@ If you are interested in collaborating with me or want to have a chat, please fe
 
 # 🔥 News
 
-<div style="max-height: 400px; overflow-y: auto; padding-right: 10px; border-radius: 5px; background-color: #f9f9f9; padding: 15px;">
+<div style="max-height: 300px; overflow-y: auto; padding-right: 10px; border-radius: 5px; background-color: #f9f9f9; padding: 15px;">
 <ul>
 <li><em>2026.03.28</em>, one paper was accepted by TPAMI (CCF-A). Thanks to all coauthors! 🎉</li>
 <li><em>2025.11.08</em>, one paper was accepted by AAAI 2026 (Oral, accept rate=1.2%, CCF-A). Thanks to all coauthors! 🎉</li>
@@ -57,25 +57,29 @@ If you are interested in collaborating with me or want to have a chat, please fe
 
 
 # 📝 Publications (selected)
-- [*TPAMI'26*] **Yang Qin\***, Yanglin Feng*, Yuan Sun, Dezhong Peng, Xi Peng, Peng Hu#, [Deep Information-Balanced Multimodal Learning](https://github.com/QinYang79/IBML), IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026. [code]()
-- [*AAAI'26*] **Yang Qin**, Yuan Sun, Xi Peng, Dezhong Peng, Joey Tianyi Zhou, Xiaomin Song, Peng Hu#, [Robust Semi-paired Multimodal Learning for Cross-modal Retrieval](https://github.com/QinYang79/RSCL), The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2026, Oral. [code](https://github.com/QinYang79/RSCL)
-- [*ACM MM'25*] Ao Yang, Yanglin Feng, Yuan Sun, Dezhong Peng, Guiduo Duan, **Yang Qin#**, [Noise-Robust Cross-modal Learning for Reliable 2D-3D Retrieval](https://dl.acm.org/doi/abs/10.1145/3746027.3755330), Proceedings of the 33rd ACM International Conference on Multimedia, 27-31 October 2025. [code](https://github.com/yangaonidaye123/NRCL)
-- [*TIP'25*] **Yang Qin**, Lifu Huang, Dezhong Peng, Bohan Jiang, Joey Tianyi Zhou, Xi Peng, Peng Hu#, [Trustworthy Visual-Textual Retrieval](https://github.com/QinYang79/TCL), IEEE Transactions on Image Processing (TIP), 2025. [code](https://github.com/QinYang79/TCL)
-- [*CVPR'25*] **Yang Qin**, Chao Chen, Zhihang Fu, Dezhong Peng, Xi Peng, Peng Hu#, [Human-centered Interactive Learning via MLLMs for Text-to-Image Person Re-identification](https://openaccess.thecvf.com/content/CVPR2025/papers/Qin_Human-centered_Interactive_Learning_via_MLLMs_for_Text-to-Image_Person_Re-identification_CVPR_2025_paper.pdf), IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025. [code](https://github.com/QinYang79/ICL)
-- [*ICLR'25*] **Yang Qin**, Chao Chen, Zhihang Fu, Ze Chen, Dezhong Peng#, Peng Hu#, Jieping Ye, [ROUTE: Robust Multitask Tuning and Collaboration for Text-to-SQL](https://openreview.net/pdf?id=BAglD6NGy0), International Conference on Learning Representations (ICLR), 2025. [code](https://github.com/alibaba/Route)
-- [*TMM'24*] Ruitao Pu*, **Yang Qin\***, Dezhong Peng#, Xiaoming Song, Huiming Zheng, [Deep Reversible Consistency Learning for Cross-modal Retrieval](https://arxiv.org/pdf/2501.05686), IEEE Transactions on Multimedia (TMM), 2024. [code](https://github.com/perquisite/DRCL)
-- [*CVPR'24*] **Yang Qin**, Yingke Chen, Dezhong Peng, Xi Peng, Joey Tianyi Zhou, Peng Hu#, [Noisy-Correspondence Learning for Text-to-Image Person Re-identification](https://arxiv.org/pdf/2308.09911.pdf), IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.  [code](https://github.com/QinYang79/RDE)
-- [*NeurIPS'23*] **Yang Qin**, Yuan Sun, Dezhong Peng, Joey Tianyi Zhou, Xi Peng, Peng Hu#, [Cross-modal Active Complementary Learning with Self-refining Correspondence](https://openreview.net/pdf?id=UBBeUjTja8), Neural Information Processing Systems (NeurIPS), 2023.  [code](https://github.com/QinYang79/CRCL)
-- [*ACM MM'22*] **Yang Qin**, Dezhong Peng, Xi Peng, Xu Wang, Peng Hu#, [Deep Evidential Learning with Noisy Correspondence for Cross-modal Retrieval](https://drive.google.com/file/d/1YVXD2ki5txBY6khG62EHwCi6cnQVRE4I/view), Proceedings of the 30th ACM International Conference on Multimedia, 10-14 October 2022. [code](https://github.com/QinYang79/DECL)
 
+<div style="max-height: 500px; overflow-y: auto; padding-right: 10px; border-radius: 5px; background-color: #f9f9f9; padding: 15px;">
+<ul>
+<li>[<em>TPAMI'26</em>] <strong>Yang Qin\*</strong>, Yanglin Feng*, Yuan Sun, Dezhong Peng, Xi Peng, Peng Hu#, <a href="https://github.com/QinYang79/IBML">Deep Information-Balanced Multimodal Learning</a>, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026. <a href="">code</a></li>
+<li>[<em>AAAI'26</em>] <strong>Yang Qin</strong>, Yuan Sun, Xi Peng, Dezhong Peng, Joey Tianyi Zhou, Xiaomin Song, Peng Hu#, <a href="https://github.com/QinYang79/RSCL">Robust Semi-paired Multimodal Learning for Cross-modal Retrieval</a>, The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2026, Oral. <a href="https://github.com/QinYang79/RSCL">code</a></li>
+<li>[<em>ACM MM'25</em>] Ao Yang, Yanglin Feng, Yuan Sun, Dezhong Peng, Guiduo Duan, <strong>Yang Qin#</strong>, <a href="https://dl.acm.org/doi/abs/10.1145/3746027.3755330">Noise-Robust Cross-modal Learning for Reliable 2D-3D Retrieval</a>, Proceedings of the 33rd ACM International Conference on Multimedia, 27-31 October 2025. <a href="https://github.com/yangaonidaye123/NRCL">code</a></li>
+<li>[<em>TIP'25</em>] <strong>Yang Qin</strong>, Lifu Huang, Dezhong Peng, Bohan Jiang, Joey Tianyi Zhou, Xi Peng, Peng Hu#, <a href="https://github.com/QinYang79/TCL">Trustworthy Visual-Textual Retrieval</a>, IEEE Transactions on Image Processing (TIP), 2025. <a href="https://github.com/QinYang79/TCL">code</a></li>
+<li>[<em>CVPR'25</em>] <strong>Yang Qin</strong>, Chao Chen, Zhihang Fu, Dezhong Peng, Xi Peng, Peng Hu#, <a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Qin_Human-centered_Interactive_Learning_via_MLLMs_for_Text-to-Image_Person_Re-identification_CVPR_2025_paper.pdf">Human-centered Interactive Learning via MLLMs for Text-to-Image Person Re-identification</a>, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025. <a href="https://github.com/QinYang79/ICL">code</a></li>
+<li>[<em>ICLR'25</em>] <strong>Yang Qin</strong>, Chao Chen, Zhihang Fu, Ze Chen, Dezhong Peng#, Peng Hu#, Jieping Ye, <a href="https://openreview.net/pdf?id=BAglD6NGy0">ROUTE: Robust Multitask Tuning and Collaboration for Text-to-SQL</a>, International Conference on Learning Representations (ICLR), 2025. <a href="https://github.com/alibaba/Route">code</a></li>
+<li>[<em>TMM'24</em>] Ruitao Pu*, <strong>Yang Qin\*</strong>, Dezhong Peng#, Xiaoming Song, Huiming Zheng, <a href="https://arxiv.org/pdf/2501.05686">Deep Reversible Consistency Learning for Cross-modal Retrieval</a>, IEEE Transactions on Multimedia (TMM), 2024. <a href="https://github.com/perquisite/DRCL">code</a></li>
+<li>[<em>CVPR'24</em>] <strong>Yang Qin</strong>, Yingke Chen, Dezhong Peng, Xi Peng, Joey Tianyi Zhou, Peng Hu#, <a href="https://arxiv.org/pdf/2308.09911.pdf">Noisy-Correspondence Learning for Text-to-Image Person Re-identification</a>, IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.  <a href="https://github.com/QinYang79/RDE">code</a></li>
+<li>[<em>NeurIPS'23</em>] <strong>Yang Qin</strong>, Yuan Sun, Dezhong Peng, Joey Tianyi Zhou, Xi Peng, Peng Hu#, <a href="https://openreview.net/pdf?id=UBBeUjTja8">Cross-modal Active Complementary Learning with Self-refining Correspondence</a>, Neural Information Processing Systems (NeurIPS), 2023.  <a href="https://github.com/QinYang79/CRCL">code</a></li>
+<li>[<em>ACM MM'22</em>] <strong>Yang Qin</strong>, Dezhong Peng, Xi Peng, Xu Wang, Peng Hu#, <a href="https://drive.google.com/file/d/1YVXD2ki5txBY6khG62EHwCi6cnQVRE4I/view">Deep Evidential Learning with Noisy Correspondence for Cross-modal Retrieval</a>, Proceedings of the 30th ACM International Conference on Multimedia, 10-14 October 2022. <a href="https://github.com/QinYang79/DECL">code</a></li>
+</ul>
+<ul>
+<li>[<em>ICML'25</em>] Ruitao Pu, <strong>Yang Qin</strong>, Xiaomin Song, Dezhong Peng, Zhenwen Ren, Yuan Sun, <a href="">SHE: Streaming-media Hashing Retrieval</a>, International Conference on Machine Learning (ICML), 2025. <a href="">code</a></li>
+<li>[<em>IJCAI'25</em>] Peng Hu, <strong>Yang Qin</strong>, Yuanbiao Gou, Yunfan Li, Mouxing Yang, Xi Peng, <a href="">Probabilistic Multimodal Learning with von Mises-Fisher Distributions</a>, International Joint Conference on Artificial Intelligence (IJCAI), 2025. <a href="">code</a></li>
+<li>[<em>TIP'24</em>] Yongxiang Li, <strong>Yang Qin</strong>, Yuan Sun, Dezhong Peng, Xi Peng, Peng Hu#, <a href="https://ieeexplore.ieee.org/abstract/document/10653726">RoMo: Robust Unsupervised Multimodal Learning With Noisy Pseudo Labels</a>, IEEE Transactions on Image Processing (TIP), 2024. <a href="https://github.com/sunyuan-cs/2024-TKDE-RMCNC">code</a></li>
+<li>[<em>TKDE'24</em>] Yuan Sun, <strong>Yang Qin</strong>, Yongxiang Li, Dezhong Peng, Xi Peng, Peng Hu#, <a href="https://ieeexplore.ieee.org/abstract/document/10595464">Robust Multi-View Clustering With Noisy Correspondence</a>, IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024. <a href="https://github.com/sunyuan-cs/2024-TKDE-RMCNC">code</a></li>
+</ul>
+</div>
 
-- [*ICML'25*] Ruitao Pu, **Yang Qin**, Xiaomin Song, Dezhong Peng, Zhenwen Ren, Yuan Sun, [SHE: Streaming-media Hashing Retrieval](), International Conference on Machine Learning (ICML), 2025. [code]()
-- [*IJCAI'25*] Peng Hu, **Yang Qin**, Yuanbiao Gou, Yunfan Li, Mouxing Yang, Xi Peng, [Probabilistic Multimodal Learning with von Mises-Fisher Distributions](), International Joint Conference on Artificial Intelligence (IJCAI), 2025. [code]()
-- [*TIP'24*] Yongxiang Li, **Yang Qin**, Yuan Sun, Dezhong Peng, Xi Peng, Peng Hu#, [RoMo: Robust Unsupervised Multimodal Learning With Noisy Pseudo Labels](https://ieeexplore.ieee.org/abstract/document/10653726), IEEE Transactions on Image Processing (TIP), 2024. [code](https://github.com/sunyuan-cs/2024-TKDE-RMCNC)
-- [*TKDE'24*] Yuan Sun, **Yang Qin**, Yongxiang Li, Dezhong Peng, Xi Peng, Peng Hu#, [Robust Multi-View Clustering With Noisy Correspondence](https://ieeexplore.ieee.org/abstract/document/10595464), IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024. [code](https://github.com/sunyuan-cs/2024-TKDE-RMCNC)
- 
-
-- For the full list of published papers, see [Google Scholar](https://scholar.google.com/citations?user=Ci4FBHoAAAAJ&hl=zh-CN&authuser=1). # and * indicate the corresponding author and equal contribution.
+- For the full list of published papers, see <a href="https://scholar.google.com/citations?user=Ci4FBHoAAAAJ&hl=zh-CN&authuser=1">Google Scholar</a>. # and * indicate the corresponding author and equal contribution.
 
 # 📖 Educations and Experiences
 
