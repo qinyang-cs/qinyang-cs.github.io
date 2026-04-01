@@ -54,7 +54,7 @@ If you are interested in collaborating with me or want to have a chat, please fe
 </ul>
 </div>
 
-# 📝 Publications (selected)
+# 📝 Selected Publications (Please refer to full list on <a href="https://scholar.google.com/citations?user=Ci4FBHoAAAAJ&hl=zh-CN&authuser=1">Google Scholar</a>)
 
 <div style="max-height: 455px; overflow-y: auto; border-radius: 5px; background-color: #f9f9f9; scrollbar-width: none; -ms-overflow-style: none;">
 <ul>
@@ -72,9 +72,9 @@ If you are interested in collaborating with me or want to have a chat, please fe
 <li>[<em>IJCAI'25</em>] Peng Hu, <strong>Yang Qin</strong>, Yuanbiao Gou, Yunfan Li, Mouxing Yang, Xi Peng, <a href="">Probabilistic Multimodal Learning with von Mises-Fisher Distributions</a>, International Joint Conference on Artificial Intelligence (IJCAI), 2025. <a href="">code</a></li>
 <li>[<em>TIP'24</em>] Yongxiang Li, <strong>Yang Qin</strong>, Yuan Sun, Dezhong Peng, Xi Peng, Peng Hu#, <a href="https://ieeexplore.ieee.org/abstract/document/10653726">RoMo: Robust Unsupervised Multimodal Learning With Noisy Pseudo Labels</a>, IEEE Transactions on Image Processing (TIP), 2024. <a href="https://github.com/sunyuan-cs/2024-TKDE-RMCNC">code</a></li>
 <li>[<em>TKDE'24</em>] Yuan Sun, <strong>Yang Qin</strong>, Yongxiang Li, Dezhong Peng, Xi Peng, Peng Hu#, <a href="https://ieeexplore.ieee.org/abstract/document/10595464">Robust Multi-View Clustering With Noisy Correspondence</a>, IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024. <a href="https://github.com/sunyuan-cs/2024-TKDE-RMCNC">code</a></li>
+<li>Note that # and * indicate the corresponding author and equal contribution.</li>
 </ul>
 </div>
-For the full list of published papers, see <a href="https://scholar.google.com/citations?user=Ci4FBHoAAAAJ&hl=zh-CN&authuser=1">Google Scholar</a>. # and * indicate the corresponding author and equal contribution.
 
 # 📖 Educations and Experiences
 
