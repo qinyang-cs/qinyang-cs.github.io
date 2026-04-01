@@ -28,27 +28,31 @@ If you are interested in collaborating with me or want to have a chat, please fe
 
 # 🔥 News
 
-- *2026.03.28*, one paper was accepted by TPAMI (CCF-A). Thanks to all coauthors! 🎉
-- *2025.11.08*, one paper was accepted by AAAI 2026 (Oral, accept rate=1.2%, CCF-A). Thanks to all coauthors! 🎉
-- *2025.09.19*, one paper about [LLM](https://qinyang-cs.github.io/projects/LLMs) was accepted by NeurIPS 2025 (Oral, accept rate=0.36%, CCF-A). Congrats to Yanglin and coauthors! 🎉
-- *2025.08.27*, one project paper about LLM [Agentic RL](https://github.com/antgroup/Research-Venus) (Deep Research) was released. Congrats to all authors! 🎉
-- *2025.07.05*, one paper was accepted by ACM MM 2025 (CCF-A). Congrats to Ao Yang and coauthors! 🎉
-- *2025.06.28*, one paper was accepted by TIP 2025 (CCF-A). Thanks to all coauthors! 🎉
-- *2025.05.01*, one paper was accepted by ICML 2025 (CCF-A). Congrats to Ruitao and coauthors! 🎉
-- *2025.04.29*, one paper was accepted by IJCAI 2025 (CCF-B). Congrats to Prof. Hu and coauthors! 🎉
-- *2025.02.27*, one paper about [LLM](https://qinyang-cs.github.io/projects/LLMs) was accepted by CVPR 2025 (CCF-A). Thanks to all coauthors! 🎉 
-- *2025.01.23*, one paper about [LLM](https://qinyang-cs.github.io/projects/LLMs) was accepted by ICLR 2025 (CCF-A). Thanks to all coauthors! 🎉 
-- *2025.01.19*, one paper was accepted by TMM (CCF-A). Congrats to Yanglin and coauthors! 🎉
-- *2025.01.16*, one paper was accepted by TIFS (CCF-A). Congrats to Yongxiang and coauthors! 🎉
-- *2024.12.10*, one paper was accepted by AAAI 2025 (CCF-A). Congrats to Ruitao and coauthors! 🎉
-- *2024.10.28*, one paper was accepted by TMM (CCF-A). Thanks to all coauthors! 🎉
-- *2024.07.16*, one paper was accepted by ACM MM 2024 (CCF-A). Congrats to Longan (Undergrad) and coauthors! 🎉
-- *2024.06.26*, one paper was accepted by TIP  (CCF-A). Congrats to Yongxiang and coauthors! 🎉
-- *2024.06.23*, one paper was accepted by TKDE (CCF-A). Congrats to Yuan and coauthors! 🎉
-- *2024.04.20*, one paper was accepted by TMM (CCF-A). Congrats to Yuan and the coauthors! 🎉
-- *2024.02.27*, one paper was accepted by CVPR 2024 (CCF-A). Thanks to all coauthors! 🎉 
-- *2023.09.22*, one paper was accepted by NeurIPS 2023 (CCF-A). Thanks to all coauthors! 🎉 
-- *2022.06.30*, one paper was accepted by ACM MM 2022 (CCF-A). Thanks to all coauthors! 🎉
+<div style="max-height: 400px; overflow-y: auto; padding-right: 10px; border-radius: 5px; background-color: #f9f9f9; padding: 15px;">
+<ul>
+<li><em>2026.03.28</em>, one paper was accepted by TPAMI (CCF-A). Thanks to all coauthors! 🎉</li>
+<li><em>2025.11.08</em>, one paper was accepted by AAAI 2026 (Oral, accept rate=1.2%, CCF-A). Thanks to all coauthors! 🎉</li>
+<li><em>2025.09.19</em>, one paper about <a href="https://qinyang-cs.github.io/projects/LLMs">LLM</a> was accepted by NeurIPS 2025 (Oral, accept rate=0.36%, CCF-A). Congrats to Yanglin and coauthors! 🎉</li>
+<li><em>2025.08.27</em>, one project paper about LLM <a href="https://github.com/antgroup/Research-Venus">Agentic RL</a> (Deep Research) was released. Congrats to all authors! 🎉</li>
+<li><em>2025.07.05</em>, one paper was accepted by ACM MM 2025 (CCF-A). Congrats to Ao Yang and coauthors! 🎉</li>
+<li><em>2025.06.28</em>, one paper was accepted by TIP 2025 (CCF-A). Thanks to all coauthors! 🎉</li>
+<li><em>2025.05.01</em>, one paper was accepted by ICML 2025 (CCF-A). Congrats to Ruitao and coauthors! 🎉</li>
+<li><em>2025.04.29</em>, one paper was accepted by IJCAI 2025 (CCF-B). Congrats to Prof. Hu and coauthors! 🎉</li>
+<li><em>2025.02.27</em>, one paper about <a href="https://qinyang-cs.github.io/projects/LLMs">LLM</a> was accepted by CVPR 2025 (CCF-A). Thanks to all coauthors! 🎉 </li>
+<li><em>2025.01.23</em>, one paper about <a href="https://qinyang-cs.github.io/projects/LLMs">LLM</a> was accepted by ICLR 2025 (CCF-A). Thanks to all coauthors! 🎉 </li>
+<li><em>2025.01.19</em>, one paper was accepted by TMM (CCF-A). Congrats to Yanglin and coauthors! 🎉</li>
+<li><em>2025.01.16</em>, one paper was accepted by TIFS (CCF-A). Congrats to Yongxiang and coauthors! 🎉</li>
+<li><em>2024.12.10</em>, one paper was accepted by AAAI 2025 (CCF-A). Congrats to Ruitao and coauthors! 🎉</li>
+<li><em>2024.10.28</em>, one paper was accepted by TMM (CCF-A). Thanks to all coauthors! 🎉</li>
+<li><em>2024.07.16</em>, one paper was accepted by ACM MM 2024 (CCF-A). Congrats to Longan (Undergrad) and coauthors! 🎉</li>
+<li><em>2024.06.26</em>, one paper was accepted by TIP  (CCF-A). Congrats to Yongxiang and coauthors! 🎉</li>
+<li><em>2024.06.23</em>, one paper was accepted by TKDE (CCF-A). Congrats to Yuan and coauthors! 🎉</li>
+<li><em>2024.04.20</em>, one paper was accepted by TMM (CCF-A). Congrats to Yuan and the coauthors! 🎉</li>
+<li><em>2024.02.27</em>, one paper was accepted by CVPR 2024 (CCF-A). Thanks to all coauthors! 🎉 </li>
+<li><em>2023.09.22</em>, one paper was accepted by NeurIPS 2023 (CCF-A). Thanks to all coauthors! 🎉 </li>
+<li><em>2022.06.30</em>, one paper was accepted by ACM MM 2022 (CCF-A). Thanks to all coauthors! 🎉</li>
+</ul>
+</div>
 
 
 
