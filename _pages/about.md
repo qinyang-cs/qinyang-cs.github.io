@@ -28,7 +28,7 @@ If you are interested in collaborating with me or want to have a chat, please fe
 
 # 🔥 News
 
-<div style="max-height: 300px; overflow-y: auto;border-radius: 5px; background-color: #f9f9f9;">
+<div style="max-height: 310px; overflow-y: auto;border-radius: 5px; background-color: #f9f9f9;">
 <ul>
 <li><em>2026.03.28</em>, one paper was accepted by TPAMI (CCF-A). Thanks to all coauthors! 🎉</li>
 <li><em>2025.11.08</em>, one paper was accepted by AAAI 2026 (Oral, accept rate=1.2%, CCF-A). Thanks to all coauthors! 🎉</li>
@@ -56,7 +56,7 @@ If you are interested in collaborating with me or want to have a chat, please fe
 
 # 📝 Publications (selected)
 
-<div style="max-height: 450px; overflow-y: auto; border-radius: 5px; background-color: #f9f9f9;">
+<div style="max-height: 460px; overflow-y: auto; border-radius: 5px; background-color: #f9f9f9;">
 <ul>
 <li>[<em>TPAMI'26</em>] <strong>Yang Qin*</strong>, Yanglin Feng*, Yuan Sun, Dezhong Peng, Xi Peng, Peng Hu#, <a href="https://github.com/QinYang79/IBML">Deep Information-Balanced Multimodal Learning</a>, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026. <a href="">code</a></li>
 <li>[<em>AAAI'26</em>] <strong>Yang Qin</strong>, Yuan Sun, Xi Peng, Dezhong Peng, Joey Tianyi Zhou, Xiaomin Song, Peng Hu#, <a href="https://github.com/QinYang79/RSCL">Robust Semi-paired Multimodal Learning for Cross-modal Retrieval</a>, The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2026, Oral. <a href="https://github.com/QinYang79/RSCL">code</a></li>
