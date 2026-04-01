@@ -56,7 +56,7 @@ If you are interested in collaborating with me or want to have a chat, please fe
 
 # 📝 Publications (selected)
 
-<div style="max-height: 460px; overflow-y: auto; border-radius: 5px; background-color: #f9f9f9;">
+<div style="max-height: 455px; overflow-y: auto; border-radius: 5px; background-color: #f9f9f9;">
 <ul>
 <li>[<em>TPAMI'26</em>] <strong>Yang Qin*</strong>, Yanglin Feng*, Yuan Sun, Dezhong Peng, Xi Peng, Peng Hu#, <a href="https://github.com/QinYang79/IBML">Deep Information-Balanced Multimodal Learning</a>, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026. <a href="">code</a></li>
 <li>[<em>AAAI'26</em>] <strong>Yang Qin</strong>, Yuan Sun, Xi Peng, Dezhong Peng, Joey Tianyi Zhou, Xiaomin Song, Peng Hu#, <a href="https://github.com/QinYang79/RSCL">Robust Semi-paired Multimodal Learning for Cross-modal Retrieval</a>, The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2026, Oral. <a href="https://github.com/QinYang79/RSCL">code</a></li>
