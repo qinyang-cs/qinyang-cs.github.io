@@ -28,7 +28,7 @@ If you are interested in collaborating with me or want to have a chat, please fe
 
 # 🔥 News
 
-<div style="max-height: 310px; overflow-y: auto;border-radius: 5px; background-color: #f9f9f9;">
+<div style="max-height: 310px; overflow-y: auto;border-radius: 5px; background-color: #f9f9f9; scrollbar-width: none; -ms-overflow-style: none;">
 <ul>
 <li><em>2026.03.28</em>, one paper was accepted by TPAMI (CCF-A). Thanks to all coauthors! 🎉</li>
 <li><em>2025.11.08</em>, one paper was accepted by AAAI 2026 (Oral, accept rate=1.2%, CCF-A). Thanks to all coauthors! 🎉</li>
