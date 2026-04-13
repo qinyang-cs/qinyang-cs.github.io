@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! My name is **Yang Qin (秦阳)**. I'm a Ph.D. candidate (since 2021) at [the College of Computer Science](https://cs.scu.edu.cn/e_jsjxy/), [Sichuan University](https://en.scu.edu.cn/), fortunately advised by Prof. [Dezhong Peng](https://cs.scu.edu.cn/info/1282/13563.htm) and Prof. [Peng Hu](https://penghu-cs.github.io/). I also collaborate closely with Prof. [Xi Peng](https://pengxi.me/) and Prof. [Joey Tianyi Zhou](https://joeyzhouty.github.io/). From May to December 2024, I worked as a research intern at Alibaba Cloud Apsara Lab (led by [Jieping Ye](https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=T9AzhwcAAAAJ)), where I conducted research on code LLMs and participated in the project of OlympicGPT. From June to September 2025, I conducted research on [Agentic Deep Research](https://github.com/antgroup/Research-Venus) at Ant Group. Recently, I have been conducting research on multimodal agents at the Multimodal Department, Hunyuan, Tencent.
+Hi there! My name is **Yang Qin (秦阳)**. I'm a Ph.D. candidate (since 2021) at [the College of Computer Science](https://cs.scu.edu.cn/e_jsjxy/), [Sichuan University](https://en.scu.edu.cn/), fortunately advised by Prof. [Dezhong Peng](https://cs.scu.edu.cn/info/1282/13563.htm) and Prof. [Peng Hu](https://penghu-cs.github.io/). I also collaborate closely with Prof. [Xi Peng](https://pengxi.me/) and Prof. [Joey Tianyi Zhou](https://joeyzhouty.github.io/). From May to December 2024, I worked as a research intern at Alibaba Cloud Apsara Lab (led by [Jieping Ye](https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=T9AzhwcAAAAJ)), where I conducted research on code LLMs and participated in the project of OlympicGPT. From June to September 2025, I conducted research on [Agentic Deep Research](https://github.com/antgroup/Research-Venus) at Ant Group. Furthermore, in 2026, I also worked  in Tencent Hunyuan Multimodal Department, where I conducted research on multimodal agents.
 
 My pursuits center on multimodal learning and large language models, with an emphasis on advancing robustness and cross-modal understanding in AI systems:
 
@@ -76,12 +76,12 @@ If you are interested in collaborating with me or want to have a chat, please fe
 </ul>
 </div>
 
-# 📖 Educations and Experiences
+# 📖 Educations
 
 - *2021.09 -  now*, PhD, the College of Computer Science, Sichuan University, Chengdu, China.
-- *2026.02 -  now*, the Research Internship at Tencent (Hunyuan), Shenzhen, China.
+<!-- - *2026.02 -  now*, the Research Internship at Tencent (Hunyuan), Shenzhen, China.
 - *2025.06 -  2025.09*, the Summer Internship at Ant Group, Hangzhou, China.
-- *2024.05 -  2024.12*, the Research Internship at Alibaba Cloud (Apsara Lab led by [Jieping Ye](https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=T9AzhwcAAAAJ)), Hangzhou, China.
+- *2024.05 -  2024.12*, the Research Internship at Alibaba Cloud (Apsara Lab led by [Jieping Ye](https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=T9AzhwcAAAAJ)), Hangzhou, China. -->
 - *2017.09 - 2021.06*, Undergraduate,  the College of Software Engineering, Sichuan University, Chengdu, China.
 
 # 🎖 Honors and Awards
