@@ -79,9 +79,6 @@ If you are interested in collaborating with me or want to have a chat, please fe
 # 📖 Educations
 
 - *2021.09 -  now*, PhD, the College of Computer Science, Sichuan University, Chengdu, China.
-<!-- - *2026.02 -  now*, the Research Internship at Tencent (Hunyuan), Shenzhen, China.
-- *2025.06 -  2025.09*, the Summer Internship at Ant Group, Hangzhou, China.
-- *2024.05 -  2024.12*, the Research Internship at Alibaba Cloud (Apsara Lab led by [Jieping Ye](https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=T9AzhwcAAAAJ)), Hangzhou, China. -->
 - *2017.09 - 2021.06*, Undergraduate,  the College of Software Engineering, Sichuan University, Chengdu, China.
 
 # 🎖 Honors and Awards
