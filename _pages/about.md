@@ -20,7 +20,7 @@ Hi there! My name is **Yang Qin (秦阳)**. I'm a Ph.D. candidate (since 2021) a
 
 My pursuits center on multimodal learning and large language models, with an emphasis on advancing robustness and cross-modal understanding in AI systems:
 
-- **Multimodal Learning** 👀: Multimodal Fusion & Cross-modal Learning > Investigating multimodal fusion mechanisms and cross-modal representation learning paradigm to enable coherent integration of heterogeneous data sources;
+- **Multimodal Learning** 👀: [Multimodal Fusion](https://ieeexplore.ieee.org/document/11475667/) & [Cross-modal Learning](https://ieeexplore.ieee.org/abstract/document/11080256) > Investigating multimodal fusion mechanisms and cross-modal representation learning paradigm to enable coherent integration of heterogeneous data sources;
 - **Robust Machine Learning** 🦾: [Noisy Correspondence](https://github.com/QinYang79/Noisy-Correspondence-Summary) & Label in Multimodal Learning > Addressing challenges posed by noisy correspondence and labels in multimodal datasets, making efforts towards a unified noise-resilient multimodal learning framework;
 - **Large Language Models** 🤖: [Code LLMs  & Application of MLLMs/LLMs](https://qinyang-cs.github.io/projects/LLMs) > Exploring open-generation (e.g., code) capabilities and multimodal extensions for real-world applications, including interactive learning and domain-specific knowledge adaptation.
 
