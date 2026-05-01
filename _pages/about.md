@@ -31,7 +31,7 @@ If you are interested in collaborating with me or want to have a chat, please fe
 <div style="max-height: 310px; overflow-y: auto;border-radius: 5px; background-color: #f9f9f9; scrollbar-width: none; -ms-overflow-style: none;">
 <ul>
 
-<li><em>2026.05.01</em>, three paper was accepted by ICML 2026 (Two paper were accepted as Spotlight, accept rate=2.2%, CCF-A). Congrats to Yingyu, Yanglin, Kaiqi, and coauthors! 🎉</li>
+<li><em>2026.05.01</em>, three paper were accepted by ICML 2026 (Two paper were accepted as Spotlight, accept rate=2.2%, CCF-A). Congrats to Yingyu, Yanglin, Kaiqi, and coauthors! 🎉</li>
 <li><em>2026.03.28</em>, one paper was accepted by TPAMI (CCF-A). Thanks to all coauthors! 🎉</li>
 <li><em>2025.11.08</em>, one paper was accepted by AAAI 2026 (Oral, accept rate=1.2%, CCF-A). Thanks to all coauthors! 🎉</li>
 <li><em>2025.09.19</em>, one paper about <a href="https://qinyang-cs.github.io/projects/LLMs">LLM</a> was accepted by NeurIPS 2025 (Oral, accept rate=0.36%, CCF-A). Congrats to Yanglin and coauthors! 🎉</li>
