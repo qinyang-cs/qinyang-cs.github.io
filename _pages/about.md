@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! My name is **Yang Qin (秦阳)**. I'm a Ph.D. candidate (since 2021) at [the College of Computer Science](https://cs.scu.edu.cn/e_jsjxy/), [Sichuan University](https://en.scu.edu.cn/), fortunately advised by Prof. [Dezhong Peng](https://cs.scu.edu.cn/info/1282/13563.htm) and Prof. [Peng Hu](https://penghu-cs.github.io/). I also collaborate closely with Prof. [Xi Peng](https://pengxi.me/) and Prof. [Joey Tianyi Zhou](https://joeyzhouty.github.io/). From May to December 2024, I worked as a research intern at Alibaba Cloud Apsara Lab (led by [Jieping Ye](https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=T9AzhwcAAAAJ)), where I conducted research on code LLMs and participated in the project of OlympicGPT. From June to September 2025, I conducted research on [Agentic Deep Research](https://github.com/antgroup/Research-Venus) at Ant Group. Before April 2026, I was an research intern at Tencent Hunyuan Multimodal Department, where I mainly researched multimodal agents. Now, I am a research scientist with the honor of *HUAWEI TopMinds*.
+Hi there! My name is **Yang Qin (秦阳)**. I received my Ph.D. (2021-2026.06) from [the College of Computer Science](https://cs.scu.edu.cn/e_jsjxy/), [Sichuan University](https://en.scu.edu.cn/), fortunately advised by Prof. [Dezhong Peng](https://cs.scu.edu.cn/info/1282/13563.htm) and Prof. [Peng Hu](https://penghu-cs.github.io/). I also collaborate closely with Prof. [Xi Peng](https://pengxi.me/) and Prof. [Joey Tianyi Zhou](https://joeyzhouty.github.io/). From May to December 2024, I worked as a research intern at Alibaba Cloud Apsara Lab (led by [Jieping Ye](https://scholar.google.com/citations?hl=zh-CN&authuser=1&user=T9AzhwcAAAAJ)), where I conducted research on code LLMs and participated in the project of OlympicGPT. From June to September 2025, I conducted research on [Agentic Deep Research](https://github.com/antgroup/Research-Venus) at Ant Group. Before April 2026, I was a research intern at Tencent Hunyuan Multimodal Department, where I mainly researched multimodal agents. Now, I am a research scientist with the honor of *HUAWEI TopMinds*.
 
 
 My pursuits center on multimodal learning and large language models, with an emphasis on advancing robustness and cross-modal understanding in AI systems:
@@ -81,7 +81,7 @@ We are hiring! Looking for talented interns and full-time researchers. If you ar
 
 # 📖 Educations
 
-- *2021.09 -  now*, PhD, the College of Computer Science, Sichuan University, Chengdu, China.
+- *2021.09 - 2026.06*, PhD, the College of Computer Science, Sichuan University, Chengdu, China.
 - *2017.09 - 2021.06*, Undergraduate,  the College of Software Engineering, Sichuan University, Chengdu, China.
 
 # 🎖 Honors and Awards
