@@ -33,7 +33,7 @@ We are hiring! Looking for talented interns and full-time researchers. If you ar
 <ul>
 
 <li><em>2026.07.10</em>, one paper about <a href="https://qinyang-cs.github.io/projects/LLMs">LLM</a> Reasoning RL was accepted by ACM MM 2026 (CCF-A). Thanks to all coauthors! 🎉</li>
-<li><em>2026.05.01</em>, three paper were accepted by ICML 2026 (Two paper were accepted as Spotlight, accept rate=2.2%, CCF-A). Congrats to Yingyu, Yanglin, Kaiqi, and coauthors! 🎉</li>
+<li><em>2026.05.01</em>, three paper were accepted by ICML 2026 (Two paper were accepted as Oral, accept rate=0.7%, CCF-A). Congrats to Yingyu, Yanglin, Kaiqi, and coauthors! 🎉</li>
 <li><em>2026.03.28</em>, one paper was accepted by TPAMI (CCF-A). Thanks to all coauthors! 🎉</li>
 <li><em>2025.11.08</em>, one paper was accepted by AAAI 2026 (Oral, accept rate=1.2%, CCF-A). Thanks to all coauthors! 🎉</li>
 <li><em>2025.09.19</em>, one paper about <a href="https://qinyang-cs.github.io/projects/LLMs">LLM</a> was accepted by NeurIPS 2025 (Oral, accept rate=0.36%, CCF-A). Congrats to Yanglin and coauthors! 🎉</li>
