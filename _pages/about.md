@@ -32,12 +32,13 @@ We are hiring! Looking for talented interns and full-time researchers. If you ar
 <div style="max-height: 310px; overflow-y: auto;border-radius: 5px; background-color: #f9f9f9; scrollbar-width: none; -ms-overflow-style: none;">
 <ul>
 
+<li><em>2026.07.10</em>, one paper about <a href="https://qinyang-cs.github.io/projects/LLMs">LLM</a> Reasoning RL was accepted by ACM MM 2026 (CCF-A). Thanks to all coauthors! 🎉</li>
 <li><em>2026.05.01</em>, three paper were accepted by ICML 2026 (Two paper were accepted as Spotlight, accept rate=2.2%, CCF-A). Congrats to Yingyu, Yanglin, Kaiqi, and coauthors! 🎉</li>
 <li><em>2026.03.28</em>, one paper was accepted by TPAMI (CCF-A). Thanks to all coauthors! 🎉</li>
 <li><em>2025.11.08</em>, one paper was accepted by AAAI 2026 (Oral, accept rate=1.2%, CCF-A). Thanks to all coauthors! 🎉</li>
 <li><em>2025.09.19</em>, one paper about <a href="https://qinyang-cs.github.io/projects/LLMs">LLM</a> was accepted by NeurIPS 2025 (Oral, accept rate=0.36%, CCF-A). Congrats to Yanglin and coauthors! 🎉</li>
 <li><em>2025.08.27</em>, one project paper about LLM <a href="https://github.com/antgroup/Research-Venus">Agentic RL</a> (Deep Research) was released. Congrats to all authors! 🎉</li>
-<li><em>2025.07.05</em>, one paper was accepted by ACM MM 2025 (CCF-A). Congrats to Ao Yang and coauthors! 🎉</li>
+<li><em>2025.07.05</em>, one paper was accepted by ACM MM 2025 (CCF-A). Thanks to all coauthors! 🎉</li>
 <li><em>2025.06.28</em>, one paper was accepted by TIP 2025 (CCF-A). Thanks to all coauthors! 🎉</li>
 <li><em>2025.05.01</em>, one paper was accepted by ICML 2025 (CCF-A). Congrats to Ruitao and coauthors! 🎉</li>
 <li><em>2025.04.29</em>, one paper was accepted by IJCAI 2025 (CCF-B). Congrats to Prof. Hu and coauthors! 🎉</li>
@@ -62,6 +63,8 @@ We are hiring! Looking for talented interns and full-time researchers. If you ar
 <div style="max-height: 455px; overflow-y: auto; border-radius: 5px; background-color: #f9f9f9; scrollbar-width: none; -ms-overflow-style: none;">
 <ul>
 <li>Note that # and * indicate the corresponding author and equal contribution.</li>
+
+<li>[<em>ACM MM'26</em>] Shuai Lyu, Yuning Gong, Ruiling Gao, Xiaoran Shang, Zhonghong Ou, Ping Zong, Yifan Zhu, Yuan Sun, <strong>Yang Qin#</strong>, Peng Hu#, <a href="">Multi-Branch Policy Optimization for Multimodal Large Language Models</a>, Proceedings of the 34th ACM International Conference on Multimedia, 10–14 November 2026. <a href="">code</a></li>
 <li>[<em>TPAMI'26</em>] <strong>Yang Qin*</strong>, Yanglin Feng*, Yuan Sun, Dezhong Peng, Xi Peng, Peng Hu#, <a href="https://github.com/QinYang79/IBML">Deep Information-Balanced Multimodal Learning</a>, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026. <a href="">code</a></li>
 <li>[<em>AAAI'26</em>] <strong>Yang Qin</strong>, Yuan Sun, Xi Peng, Dezhong Peng, Joey Tianyi Zhou, Xiaomin Song, Peng Hu#, <a href="https://github.com/QinYang79/RSCL">Robust Semi-paired Multimodal Learning for Cross-modal Retrieval</a>, The 39th Annual AAAI Conference on Artificial Intelligence (AAAI), 2026, Oral. <a href="https://github.com/QinYang79/RSCL">code</a></li>
 <li>[<em>ACM MM'25</em>] Ao Yang, Yanglin Feng, Yuan Sun, Dezhong Peng, Guiduo Duan, <strong>Yang Qin#</strong>, <a href="https://dl.acm.org/doi/abs/10.1145/3746027.3755330">Noise-Robust Cross-modal Learning for Reliable 2D-3D Retrieval</a>, Proceedings of the 33rd ACM International Conference on Multimedia, 27-31 October 2025. <a href="https://github.com/yangaonidaye123/NRCL">code</a></li>
