@@ -32,7 +32,7 @@ We are hiring! Looking for talented interns and full-time researchers. If you ar
 <div style="max-height: 310px; overflow-y: auto;border-radius: 5px; background-color: #f9f9f9; scrollbar-width: none; -ms-overflow-style: none;">
 <ul>
 
-<li><em>2026.07.10</em>, one paper about <a href="https://qinyang-cs.github.io/projects/LLMs">LLM</a> Reasoning RL was accepted by ACM MM 2026 (CCF-A, Oral Presentation). Thanks to all coauthors! 🎉</li>
+<li><em>2026.07.10</em>, one paper about <a href="https://qinyang-cs.github.io/projects/LLMs">LLM</a> Reasoning RL was accepted by ACM MM 2026 (Oral, accept rate=2.3%, CCF-A). Thanks to all coauthors! 🎉</li>
 <li><em>2026.05.01</em>, three paper were accepted by ICML 2026 (Two paper were accepted as Oral, accept rate=0.7%, CCF-A). Congrats to Yingyu, Yanglin, Kaiqi, and coauthors! 🎉</li>
 <li><em>2026.03.28</em>, one paper was accepted by TPAMI (CCF-A). Thanks to all coauthors! 🎉</li>
 <li><em>2025.11.08</em>, one paper was accepted by AAAI 2026 (Oral, accept rate=1.2%, CCF-A). Thanks to all coauthors! 🎉</li>
